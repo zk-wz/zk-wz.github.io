@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-02-03T03:05:21.969Z</updated>
+  <updated>2020-02-03T04:11:42.686Z</updated>
   <id>/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hexo-Theme-Sakura</title>
-    <link href="/2020/02/03/Hexo-Theme-Sakura/"/>
-    <id>/2020/02/03/Hexo-Theme-Sakura/</id>
-    <published>2020-02-03T03:32:48.000Z</published>
-    <updated>2020-02-03T03:05:21.969Z</updated>
-    
-    <summary type="html">
-    
-      hexo-sakura主题使用教程
-    
-    </summary>
-    
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="web" scheme="/tags/web/"/>
-    
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-  </entry>
   
   <entry>
     <title>本站食用指南</title>
