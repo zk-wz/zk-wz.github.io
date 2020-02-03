@@ -2559,7 +2559,7 @@ function bot_ui_ini() {
                 }).then(function() {
                     botui.message.add({
                         delay: 1200,
-                        content: "因为数据分析也需要Coder嘛"
+                        content: "没事干就学学编程"
                     }).then(function() {
                         botui.message.add({
                             delay: 1500,
@@ -2637,3 +2637,4 @@ function bot_ui_ini() {
                 })
             })
         }
+}
