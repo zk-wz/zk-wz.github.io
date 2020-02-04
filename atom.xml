@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-02-03T04:11:42.686Z</updated>
+  <updated>2020-02-04T04:12:12.469Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>ACT&amp;CREATE</title>
+    <link href="/2020/02/04/ACT-CREATE/"/>
+    <id>/2020/02/04/ACT-CREATE/</id>
+    <published>2020-02-04T03:38:53.000Z</published>
+    <updated>2020-02-04T04:12:12.469Z</updated>
+    
+    <summary type="html">
+    
+      水一篇(^・ω・^ )
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="web" scheme="/tags/web/"/>
+    
+      <category term="图集" scheme="/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>本站食用指南</title>
     <link href="/2020/02/03/%E6%9C%AC%E7%AB%99%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97/"/>
     <id>/2020/02/03/本站食用指南/</id>
     <published>2020-02-03T03:00:26.000Z</published>
-    <updated>2020-02-03T04:11:42.686Z</updated>
+    <updated>2020-02-04T03:50:06.813Z</updated>
     
     <summary type="html">
     
@@ -29,7 +51,7 @@
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
     
     
       <category term="web" scheme="/tags/web/"/>
