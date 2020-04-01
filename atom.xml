@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-03-10T09:23:44.443Z</updated>
+  <updated>2020-04-01T04:58:29.487Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>《论在MMD群实质上是Blender群的八人日常》</title>
+    <link href="/2020/04/01/%E3%80%8A%E8%AE%BA%E5%9C%A8MMD%E7%BE%A4%E5%AE%9E%E8%B4%A8%E4%B8%8A%E6%98%AFBlender%E7%BE%A4%E7%9A%84%E5%85%AB%E4%BA%BA%E6%97%A5%E5%B8%B8%E3%80%8B/"/>
+    <id>/2020/04/01/《论在MMD群实质上是Blender群的八人日常》/</id>
+    <published>2020-04-01T04:10:14.000Z</published>
+    <updated>2020-04-01T04:58:29.487Z</updated>
+    
+    <summary type="html">
+    
+      羞耻度爆表的轻小说
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="/tags/web/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="转载" scheme="/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>转载：MMD动作数据安利</title>
     <link href="/2020/03/10/%E8%BD%AC%E8%BD%BD%EF%BC%9AMMD%E5%8A%A8%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%AE%89%E5%88%A9/"/>
     <id>/2020/03/10/转载：MMD动作数据安利/</id>
     <published>2020-03-10T09:12:34.000Z</published>
-    <updated>2020-03-10T09:23:44.443Z</updated>
+    <updated>2020-04-01T03:10:55.358Z</updated>
     
     <summary type="html">
     
@@ -43,7 +67,7 @@
     <link href="/2020/02/12/MMD%E6%95%99%E7%A8%8B-2/"/>
     <id>/2020/02/12/MMD教程-2/</id>
     <published>2020-02-12T01:48:54.000Z</published>
-    <updated>2020-02-14T03:32:39.506Z</updated>
+    <updated>2020-04-01T03:26:09.842Z</updated>
     
     <summary type="html">
     
@@ -65,7 +89,7 @@
     <link href="/2020/02/10/MMD%E6%95%99%E7%A8%8B-1/"/>
     <id>/2020/02/10/MMD教程-1/</id>
     <published>2020-02-10T12:02:47.000Z</published>
-    <updated>2020-03-10T09:09:38.970Z</updated>
+    <updated>2020-04-01T03:29:07.059Z</updated>
     
     <summary type="html">
     
@@ -87,7 +111,7 @@
     <link href="/2020/02/06/%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/"/>
     <id>/2020/02/06/新功能：看板娘！/</id>
     <published>2020-02-06T03:35:21.000Z</published>
-    <updated>2020-03-10T09:08:37.440Z</updated>
+    <updated>2020-04-01T03:19:49.999Z</updated>
     
     <summary type="html">
     
@@ -109,7 +133,7 @@
     <link href="/2020/02/04/ACT-CREATE/"/>
     <id>/2020/02/04/ACT-CREATE/</id>
     <published>2020-02-04T03:38:53.000Z</published>
-    <updated>2020-03-10T09:01:29.653Z</updated>
+    <updated>2020-04-01T03:29:30.747Z</updated>
     
     <summary type="html">
     
@@ -131,7 +155,7 @@
     <link href="/2020/02/03/%E6%9C%AC%E7%AB%99%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97/"/>
     <id>/2020/02/03/本站食用指南/</id>
     <published>2020-02-03T03:00:26.000Z</published>
-    <updated>2020-03-10T08:48:31.590Z</updated>
+    <updated>2020-04-01T03:19:00.476Z</updated>
     
     <summary type="html">
     
