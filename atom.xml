@@ -164,9 +164,9 @@
       <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="图集" scheme="/tags/%E5%9B%BE%E9%9B%86/"/>
-    
       <category term="web" scheme="/tags/web/"/>
+    
+      <category term="图集" scheme="/tags/%E5%9B%BE%E9%9B%86/"/>
     
   </entry>
   
