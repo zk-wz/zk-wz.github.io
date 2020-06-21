@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
   
-  <title itemprop="name">MMD教程(2) | 掌控-物质の无用站</title>
+  <title itemprop="name">新功能：看板娘！ | 掌控-物质の无用站</title>
   
     <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/1.jpg">
   
@@ -381,11 +381,11 @@
 
   <div class="pattern-center single-center">
     <!-- 有配图默认渲染第一张 -->
-    <div class="pattern-attachment-img lazyload" style="background-image: url(https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/13.jpg);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/13.jpg">
+    <div class="pattern-attachment-img lazyload" style="background-image: url(https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/12.jpg);" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/12.jpg">
     </div>
     <header class="pattern-header single-header">
       <h1 class="entry-title">
-      MMD教程(2)</h1>
+      新功能：看板娘！</h1>
       <p class="entry-census">
         <span>
           <a href="zk-wz.cn">
@@ -397,7 +397,7 @@
         </span>
         <span class="bull">
         ·</span>
-        2020-2-12<span class="bull">
+        2020-2-6<span class="bull">
         ·</span>
       <span id="busuanzi_value_page_pv"></span>次阅读</p>
     </header>
@@ -411,58 +411,16 @@
         <!--<div class="toc-entry-content"><!-- 套嵌目录使用（主要为了支援评论）-->
         
         <div class="entry-content">
-          <h3 id="MMD教程第二期：必备资源与资源寻找"><a href="#MMD教程第二期：必备资源与资源寻找" class="headerlink" title="MMD教程第二期：必备资源与资源寻找"></a><strong>MMD教程第二期：必备资源与资源寻找</strong></h3><p>嘛~上篇教程讲了那么多，想必你也迫不及待的想做一个MMD了吧，但是先不要急，先来把必备的资源找到。</p>
-<p>国内基本上是没有资源的(你在一些网站上搜到的资源绝大多数都是二配资源，不能用，当然也有极个别大佬会发资源)，所以找资源这件事一般得去国外的网站找，下面是一些网站汇总。</p>
-<h1 id="MMD资源网站大全"><a href="#MMD资源网站大全" class="headerlink" title="MMD资源网站大全"></a>MMD资源网站大全</h1><h2 id="百度贴吧mikumikudance吧-http-tieba-baidu-com-f-kw-mikumikudance"><a href="#百度贴吧mikumikudance吧-http-tieba-baidu-com-f-kw-mikumikudance" class="headerlink" title="百度贴吧mikumikudance吧: http://tieba.baidu.com/f?kw=mikumikudance"></a><strong>百度贴吧mikumikudance吧</strong>: <a href="http://tieba.baidu.com/f?kw=mikumikudance" target="_blank" rel="noopener">http://tieba.baidu.com/f?kw=mikumikudance</a></h2><blockquote>
-<p><strong>这个贴吧并不是所有资源都是非二配的，注意分辨，找资源的注意事项我会写在下面。另外注意：百度贴吧还有个MMD吧，这个吧已被废弃，里面大多是一些广告和二配资源，禁止去下载！！！</strong></p>
+          <h1 id="新的功能来啦"><a href="#新的功能来啦" class="headerlink" title="新的功能来啦"></a>新的功能来啦</h1><blockquote>
+<p>如你们所见，我的博客的功能开始完善，一些原来404的网页你们也可以打开了 <del>（当然现在还有几个404的￣へ￣）</del></p>
 </blockquote>
-<h2 id="Bowlroll（B碗）-https-bowlroll-net"><a href="#Bowlroll（B碗）-https-bowlroll-net" class="headerlink" title="Bowlroll（B碗）: https://bowlroll.net/"></a><strong>Bowlroll（B碗）</strong>: <a href="https://bowlroll.net/" target="_blank" rel="noopener">https://bowlroll.net/</a></h2><h2 id="Deviantart（D站）-https-www-deviantart-com-需习得轻功"><a href="#Deviantart（D站）-https-www-deviantart-com-需习得轻功" class="headerlink" title="Deviantart（D站）: https://www.deviantart.com (需习得轻功)"></a><strong>Deviantart（D站）</strong>: <a href="https://www.deviantart.com" target="_blank" rel="noopener">https://www.deviantart.com</a> (需习得轻功)</h2><h2 id="NicoNico（N站）-https-www-nicovideo-jp-需习得轻功"><a href="#NicoNico（N站）-https-www-nicovideo-jp-需习得轻功" class="headerlink" title="NicoNico（N站）: https://www.nicovideo.jp/ (需习得轻功)"></a><strong>NicoNico（N站）</strong>: <a href="https://www.nicovideo.jp/" target="_blank" rel="noopener">https://www.nicovideo.jp/</a> (需习得轻功)</h2><p>  <em>有些n站配布主喜欢在n站直配或者社区配布</em></p>
-<h2 id="Twitter（推特）-http-www-twitter-com-需习得轻功"><a href="#Twitter（推特）-http-www-twitter-com-需习得轻功" class="headerlink" title="Twitter（推特）: http://www.twitter.com/ (需习得轻功)"></a><strong>Twitter（推特）</strong>: <a href="http://www.twitter.com/" target="_blank" rel="noopener">http://www.twitter.com/</a> (需习得轻功)</h2><h2 id="YouTube（油管）-https-www-youtube-com-需习得轻功"><a href="#YouTube（油管）-https-www-youtube-com-需习得轻功" class="headerlink" title="YouTube（油管）: https://www.youtube.com/ (需习得轻功)"></a><strong>YouTube（油管）</strong>: <a href="https://www.youtube.com/" target="_blank" rel="noopener">https://www.youtube.com/</a> (需习得轻功)</h2><blockquote>
-<p>这些就是目前的一些资源网站了，国内的一些大佬也会建个群，做了模型在群里配布，所以如果需要模型的话也可以多加一些MMD的相关群聊。</p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/19.jpg" alt></p>
-<h1 id="寻找资源的方法"><a href="#寻找资源的方法" class="headerlink" title="寻找资源的方法"></a>寻找资源的方法</h1><p>那知道了这些网站，应该怎么有针对性地去找资源呢（当然如果你并不知道自己究竟要找什么资源，就想随便看看，当我没说）</p>
-<ul>
-<li><p><strong>百度贴吧mikumikudance吧</strong><br>贴吧里找资源，由于MMD的禁止二配规则，贴吧里有些人又不懂，所以切忌当伸手党，这样极有可能得到的是二配资源，被原作者发现的话，后果很严重。<br>最好的方法就是找大佬的帖子，大佬会发配布模型，贴吧里有几个大佬还是蛮有名的，在吧里多混一会就知道是哪些大佬了。</p>
-</li>
-<li><p><strong>Bowlroll（B碗）</strong><br>在B碗找资源，主要是靠下面的目录索引和搜索作者名字。在你看MMD视频的时候，看见自己想要的模型，可以去翻这个MMD的借物表，里面详细写了作者的名字，借这个去各大网站搜索，很方便。</p>
-</li>
-<li><p><strong>Deviantart（D站）</strong><br>搜索方法基本和B碗相同，但是D站很多模型都只是演示，没有下载链接，搜索资源时最后加上个dl，表明你要的是能下载的资源。</p>
-</li>
-<li><p><strong>NicoNico（N站）</strong>&amp;<strong>YouTube（油管）</strong><br>N站和油管都是视频网站，找资源的方法当然就是看视频了，看那种MMD的视频，有些大佬会在下面发配布链接的（当然只是有些大佬，不是全部）</p>
-</li>
-<li><p><strong>Twitter（推特）</strong><br>找到大佬的号关注就行，推特我混的不多，有什么大佬我也不知道。</p>
-</li>
-</ul>
-<p><img src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/20.jpg" alt></p>
-<h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><p>寻找资源时最重要的就是分辨这是不是二配资源，二配资源禁止下载！贴吧里二配资源较多，所以在贴吧找资源时要尤其小心，关注几个大佬就行，他们发的模型都没有问题。<br>哎，你问是哪些大佬？<br>我找资源时一般找这三个大佬：神帝宇，时の雨（贴吧昵称：落幕流影），战物语<br>这三个大佬发的基本上都是模型，他们在很多网站上都有账号，都会发配布模型，在借物表里你们经常会看见他们。<br>动作数据嘛~我一般都搜的是动作名称，没怎么关注过作者，不过看了看我的动作资源，很多动作都是这位大佬的：呆喵挠琴</p>
-<blockquote>
-<p><strong>还有非常重要的一点，写全借物表!写全借物表!写全借物表!</strong></p>
-</blockquote>
-<p>MMD制作中最重要的一点就是写借物表，这是对使用的资源的作者的尊重！</p>
-<p>下面是一般借物表的格式（如果有些是自己做的就写自己）</p>
-<pre><code class="md">场景模型：
-人物模型：
-动作：
-表情：
-镜头：
-渲染：
-贴图：
-材质：
-BGM：
-</code></pre>
-<p><img src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/22.jpg" alt></p>
-<h1 id="其他资源"><a href="#其他资源" class="headerlink" title="其他资源"></a>其他资源</h1><p>上面的都是制作MMD的通用资源，但由于本套教程采用的是Blender+MMD的做法，所以我们还需要一些其他的资源。</p>
-<h2 id="Blender：https-www-blender-org-download-（必备）"><a href="#Blender：https-www-blender-org-download-（必备）" class="headerlink" title="Blender：https://www.blender.org/download/ （必备）"></a>Blender：<a href="https://www.blender.org/download/" target="_blank" rel="noopener">https://www.blender.org/download/</a> （必备）</h2><p>blender的更新过于频繁，所以我没有把我现在使用的版本发上来，因为随时可能更新，上边是官网下载地址，这篇教程使用的是blender2.81+blender2.83alpha版本，本篇教程要求至少使用一个blender2.82以上的版本，若是本下载页面找不到2.82以上版本请在网页下方找到go experimental，在那里可以下载到测试版本。</p>
-<h2 id="MMD-Bridge-链接-https-pan-baidu-com-s-1Rf5ojh7IIY3yqOOgEPTq6Q-提取码-kptj-（必备）"><a href="#MMD-Bridge-链接-https-pan-baidu-com-s-1Rf5ojh7IIY3yqOOgEPTq6Q-提取码-kptj-（必备）" class="headerlink" title="MMD Bridge 链接: https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q 提取码: kptj （必备）"></a>MMD Bridge 链接: <a href="https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q</a> 提取码: kptj （必备）</h2><p>使用MMD Bridge是因为单纯用插件把动作导入blender有不少问题，用这种方法导入动作更加稳定，物理解算也更好。</p>
-<h2 id="材质贴图：https-cc0textures-com-（可选）"><a href="#材质贴图：https-cc0textures-com-（可选）" class="headerlink" title="材质贴图：https://cc0textures.com （可选）"></a>材质贴图：<a href="https://cc0textures.com" target="_blank" rel="noopener">https://cc0textures.com</a> （可选）</h2><h2 id="blender-cats插件：https-github-com-michaeldegroot-cats-blender-plugin-（必备）"><a href="#blender-cats插件：https-github-com-michaeldegroot-cats-blender-plugin-（必备）" class="headerlink" title="blender cats插件：https://github.com/michaeldegroot/cats-blender-plugin （必备）"></a>blender cats插件：<a href="https://github.com/michaeldegroot/cats-blender-plugin" target="_blank" rel="noopener">https://github.com/michaeldegroot/cats-blender-plugin</a> （必备）</h2><p>使用本插件可以把MMD模型导入Blender，下载方法：电脑上点击clone or download——download zip</p>
-<h2 id="bit2map-material-（可选）"><a href="#bit2map-material-（可选）" class="headerlink" title="bit2map material （可选）"></a>bit2map material （可选）</h2><p>材质制作工具，导入基础色贴图即可智能生成其他贴图，根据需要自行安装。</p>
-<h1 id="格式介绍"><a href="#格式介绍" class="headerlink" title="格式介绍"></a>格式介绍</h1><pre><code class="md">vmd:MMD人物动作数据/相机数据
-pmx:MMD人物模型
-abc:3D通用模型格式，可带动作
-blend:blender工程文件
-</code></pre>
-<p>资源就这么多，本篇教程也到此结束了，我们下次再见，记得关注一下本网站~</p>
+<p>这次我们迎来的新伙伴就是</p>
+<h1 id="看！板！娘！"><a href="#看！板！娘！" class="headerlink" title="看！板！娘！"></a>看！板！娘！</h1><p>介绍之前，先感谢一下EYHN大佬的插件制作，源代码地址<a href="https://github.com/EYHN/hexo-helper-live2d/" target="_blank" rel="noopener">https://github.com/EYHN/hexo-helper-live2d/</a></p>
+<p>相信你们打开网页的那一刻就已经看见她了(￣▽￣)／，电脑端用户移动鼠标，她会看着鼠标哦，手机版用户就只有触碰屏幕的时候她才会盯着你的手指,可能会加载不出来，刷新一下耐心等等就好</p>
+<h3 id="试着摸摸她呗"><a href="#试着摸摸她呗" class="headerlink" title="试着摸摸她呗~"></a>试着摸摸她呗~</h3><p>摸摸她的身体各个部位，她都会做出不一样的反应，只不过她是日语配音，不懂日语的小伙伴可能听不懂她在说什么ヽ(°▽、°)ﾉ <del>其实我也听不懂</del></p>
+<p>呐~ 之后她就是各位的伙伴了，要好好相处哦~</p>
+<p><del>又水了一篇</del></p>
+<p>其实也不是我想水的啦，就是不知道写什么(Ｔ▽Ｔ)<br>如果泥萌想看我下一期写什么的话，欢迎在评论区留言，教程啊安利啊<del>废话啊</del>什么的都是可以的，但由于能力有限，如果要出教程的话只能在blender,pr,ps,python,mmd,博客搭建，ai动作捕捉里面选o(￣▽￣)ｄ </p>
 
         </div>
         <!-- .entry-content -->
@@ -494,15 +452,15 @@ blend:blender工程文件
           
             <div class="post-nepre half previous">
           
-            <a href="/mmd action recommandation" rel="prev">
+            <a href="/mmdtutorial1" rel="prev">
               <div class="background">
-                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/14.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/14.jpg">
+                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/18.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/18.jpg">
               </div>
               <span class="label">
               Previous Post</span>
               <div class="info">
                 <h3>
-                转载：MMD动作数据安利</h3>
+                MMD教程(1)</h3>
                 <hr>
               </div>
             </a>
@@ -512,15 +470,15 @@ blend:blender工程文件
           
             <div class="post-nepre half next">
           
-            <a href="/mmd tutorial 1" rel="next">
+            <a href="/ac" rel="next">
               <div class="background">
-                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/18.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/18.jpg">
+                <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/10.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/10.jpg">
               </div>
               <span class="label">
               Next Post</span>
               <div class="info">
                 <h3>
-                MMD教程(1)</h3>
+                ACT&amp;CREATE</h3>
                 <hr>
               </div>
             </a>
@@ -553,7 +511,7 @@ blend:blender工程文件
           </div>
         </div>
         <hr>
-        <p><i class="iconfont icon-write"></i>一个可爱的蓝孩子</p>
+        <p><i class="iconfont icon-write"></i>一个好奇的人</p>
       </section>
     </main><!-- #main -->
   </div><!-- #primary -->

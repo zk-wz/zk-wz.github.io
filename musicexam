@@ -422,12 +422,12 @@
 <center>嘛~ 音乐考试就在眼前了，作为新高考的第一届，博主我还是有点慌的，不过正好flottant整理了一波音乐，我就恬不知耻的全部转载过来了（好吧其实我没问他要markdown文件，所以播放器部分还是自己手敲上去的，累死惹(´；ω；`)）其中的一些错误也有修复，并且强行加了一波戏（bushi），所以大家还是支持一下啦(°∀°)ﾉ</center>
 </blockquote>
 <h1 id="1-《长江之歌》p-7（片段一-片段二适用）"><a href="#1-《长江之歌》p-7（片段一-片段二适用）" class="headerlink" title="1.《长江之歌》p. 7（片段一. 片段二适用）"></a>1.《长江之歌》p. 7（片段一. 片段二适用）</h1>
-        <div id="aplayer-wWTqffZI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ASeUElvh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-wWTqffZI"),
+            element: document.getElementById("aplayer-ASeUElvh"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -443,12 +443,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-jSqhRMHJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-htmpwwSP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-jSqhRMHJ"),
+            element: document.getElementById("aplayer-htmpwwSP"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -465,12 +465,12 @@
         </script>
 <p> 《长江之歌》是电视剧《话说长江》的主题曲，表达了对母亲河长江的赞美之情。<br> 这首作品表达了激昂的情绪。<br> 你所听到的音乐片段的旋律特点。起伏跌宕。<br> 这首作品的演唱形式属于女声独唱。（√）</p>
 <h1 id="2-青海民歌《上去高山望平川》p-16（片段一-片段二适用）"><a href="#2-青海民歌《上去高山望平川》p-16（片段一-片段二适用）" class="headerlink" title="2. 青海民歌《上去高山望平川》p. 16（片段一. 片段二适用）"></a>2. 青海民歌《上去高山望平川》p. 16（片段一. 片段二适用）</h1>
-        <div id="aplayer-ULgJrPuu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IyfnOWRw" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ULgJrPuu"),
+            element: document.getElementById("aplayer-IyfnOWRw"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -486,12 +486,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-uCwOpvfQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-zpevNeyt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-uCwOpvfQ"),
+            element: document.getElementById("aplayer-zpevNeyt"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -508,12 +508,12 @@
         </script>
 <p> 这首歌曲的曲名是《上去高山望平川》<br>​ 这首歌曲属于青海地区的民歌。<br>​ 这首歌曲属于山歌。<br>​ 歌曲《上去高山望平川》属于山歌中的“花儿。（√）<br>​ 歌曲《上去高山望平川》是一首<del>藏族民歌</del>（<strong>青海民歌</strong>）。</p>
 <h1 id="3-《刨洋芋》p-17（片段一-片段二适用）"><a href="#3-《刨洋芋》p-17（片段一-片段二适用）" class="headerlink" title="3. 《刨洋芋》p. . 17（片段一. 片段二适用）"></a>3. 《刨洋芋》p. . 17（片段一. 片段二适用）</h1>
-        <div id="aplayer-aJTsiusV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-iNgmLuBN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-aJTsiusV"),
+            element: document.getElementById("aplayer-iNgmLuBN"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -529,12 +529,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-FlMlyaTK" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ptWLvFut" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FlMlyaTK"),
+            element: document.getElementById("aplayer-ptWLvFut"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -551,12 +551,12 @@
         </script>
 <p> 这首歌曲的曲名是《刨洋芋》<br>​ 这首歌曲是山西民歌《<strong>刨洋芋</strong>》。<br>​ 这首歌曲是山西地区的民歌。<br>​ 这首歌曲用比兴的方法开始，而后又集叙事与抒情为一体。（√）</p>
 <h1 id="4-内蒙古民歌《辽阔的草原》p-22（片段一-片段二适用）"><a href="#4-内蒙古民歌《辽阔的草原》p-22（片段一-片段二适用）" class="headerlink" title="4. 内蒙古民歌《辽阔的草原》p. 22（片段一. 片段二适用）"></a>4. 内蒙古民歌《辽阔的草原》p. 22（片段一. 片段二适用）</h1>
-        <div id="aplayer-HepsXKVu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-xUkHLqxz" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-HepsXKVu"),
+            element: document.getElementById("aplayer-xUkHLqxz"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -572,12 +572,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-vtQnDjRs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-hfbkjdYp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-vtQnDjRs"),
+            element: document.getElementById("aplayer-hfbkjdYp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -594,12 +594,12 @@
         </script>
 <p> 《辽阔的草原》是一首带有浓郁蒙古族特色的长调民歌。<br>​ 这首作品是蒙古民族的民歌。<br>​ 这首作品的节奏特点是悠长宽广。<br>​ 这首作品是一首典型的<del>苗族民歌</del>。（<strong>内蒙古民歌</strong>）<br>​ 这是一首蒙古族的长调民歌。（√）</p>
 <h1 id="5-《宗巴朗松》p-23（片段一-片段二适用）"><a href="#5-《宗巴朗松》p-23（片段一-片段二适用）" class="headerlink" title="5. 《宗巴朗松》p. 23（片段一. 片段二适用）"></a>5. 《宗巴朗松》p. 23（片段一. 片段二适用）</h1>
-        <div id="aplayer-ntjVsOvU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-sjwTzTth" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ntjVsOvU"),
+            element: document.getElementById("aplayer-sjwTzTth"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -615,12 +615,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-WGVSZDRN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-PuRBlHuG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-WGVSZDRN"),
+            element: document.getElementById("aplayer-PuRBlHuG"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -637,12 +637,12 @@
         </script>
 <p> 这首歌曲的曲名是《宗巴朗松》<br>​ 这首歌曲是流行于西藏的一首传统歌舞曲，具有典型的囊玛音调。<br>​ 请选这首歌曲是西藏地区的民歌。<br>​ 这首歌曲是一首<del>内蒙古民歌</del>。（西藏民歌）<br>​ 这首歌曲是流行于西藏的一首传统歌舞曲，具有典型的囊玛音调。（√）</p>
 <h1 id="6-《沂蒙山小调》p-28（片段一）"><a href="#6-《沂蒙山小调》p-28（片段一）" class="headerlink" title="6. 《沂蒙山小调》p. 28（片段一）"></a>6. 《沂蒙山小调》p. 28（片段一）</h1>
-        <div id="aplayer-LRNgMkRa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-rdWsZMPZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-LRNgMkRa"),
+            element: document.getElementById("aplayer-rdWsZMPZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -659,12 +659,12 @@
         </script>
 <p> 你听到的这个作品是我国山东地区的民歌。<br>​ 选出这首歌曲的名称沂蒙山小调。<br>​ 歌曲《沂蒙山小调》由“起承转合“四个乐句构成。（√）<br>​ 歌曲《沂蒙山小调》是一首流行在<del>东北</del>（<strong>山东</strong>）地区的民歌。</p>
 <h1 id="7-《王大娘钉缸》（片段一-片段二适用）"><a href="#7-《王大娘钉缸》（片段一-片段二适用）" class="headerlink" title="7. 《王大娘钉缸》（片段一. 片段二适用）"></a>7. 《王大娘钉缸》（片段一. 片段二适用）</h1>
-        <div id="aplayer-LQTpCNRU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-sfvrGUXu" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-LQTpCNRU"),
+            element: document.getElementById("aplayer-sfvrGUXu"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -680,12 +680,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-ukRlGcJU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-CTUASUrv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ukRlGcJU"),
+            element: document.getElementById("aplayer-CTUASUrv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -702,12 +702,12 @@
         </script>
 <p> 这首歌曲的曲名是《王大娘钉缸》<br>​ 这首歌曲流行于河南的一种地花鼓中的一个代表曲目。.<br>​ 这首歌曲属于河南地区的民歌。<br>​ 这首歌曲流行于<del>山东</del>（<strong>河南</strong>）的一种地花鼓中的一个代表曲目。</p>
 <h1 id="8-《对鸟》p-35（片段一）"><a href="#8-《对鸟》p-35（片段一）" class="headerlink" title="8. 《对鸟》p. 35（片段一）"></a>8. 《对鸟》p. 35（片段一）</h1>
-        <div id="aplayer-LmDOcdxt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-qttTvicI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-LmDOcdxt"),
+            element: document.getElementById("aplayer-qttTvicI"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -724,12 +724,12 @@
         </script>
 <p> 这段音乐出自以下民歌《对鸟》。<br>​ 你听到的这首民歌作品是我国浙江省的民歌。<br>​ 《对鸟》是一首浙江民歌。（√）<br>​ 浙江民歌《对鸟》属于民歌中的<del>劳动号子</del>。</p>
 <h1 id="9-江南民间乐曲《中花六板》p-48（片段一-片段二适用）"><a href="#9-江南民间乐曲《中花六板》p-48（片段一-片段二适用）" class="headerlink" title="9. 江南民间乐曲《中花六板》p. 48（片段一. 片段二适用）"></a>9. 江南民间乐曲《中花六板》p. 48（片段一. 片段二适用）</h1>
-        <div id="aplayer-QbXPGpHR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-GjNtEmhj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-QbXPGpHR"),
+            element: document.getElementById("aplayer-GjNtEmhj"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -745,12 +745,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-dGByPhHU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-pTGykIkh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-dGByPhHU"),
+            element: document.getElementById("aplayer-pTGykIkh"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -767,12 +767,12 @@
         </script>
 <p> 这首乐曲属于器乐表现形式江南丝竹。<br>​ 这首音乐中<strong>没有</strong>出现的乐器是马头琴。<br>​ 这首乐曲属于江南丝竹，富有浓郁的江南色彩。（√）</p>
 <h1 id="10-《海岛冰轮初转腾》p-58（片段一-片段二适用）"><a href="#10-《海岛冰轮初转腾》p-58（片段一-片段二适用）" class="headerlink" title="10. 《海岛冰轮初转腾》p. 58（片段一. 片段二适用）"></a>10. 《海岛冰轮初转腾》p. 58（片段一. 片段二适用）</h1>
-        <div id="aplayer-zJSKugkj" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-WediRQer" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-zJSKugkj"),
+            element: document.getElementById("aplayer-WediRQer"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -788,12 +788,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-whhfdnqP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-CmqtWJLp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-whhfdnqP"),
+            element: document.getElementById("aplayer-CmqtWJLp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -810,12 +810,12 @@
         </script>
 <p> 这首戏曲的曲名是《海岛冰轮初转腾》。<br>​ 这首戏曲是京剧《贵妃醉酒》的选段。</p>
 <h1 id="11-《雄心壮志冲云天》p-62（片段一-片段二适用）"><a href="#11-《雄心壮志冲云天》p-62（片段一-片段二适用）" class="headerlink" title="11. 《雄心壮志冲云天》p. 62（片段一.片段二适用）"></a>11. 《雄心壮志冲云天》p. 62（片段一.片段二适用）</h1>
-        <div id="aplayer-yAxMUrQq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-DCgmyxqD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yAxMUrQq"),
+            element: document.getElementById("aplayer-DCgmyxqD"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -831,12 +831,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-aGfxtsau" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-WqsnyQIp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-aGfxtsau"),
+            element: document.getElementById("aplayer-WqsnyQIp"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -853,12 +853,12 @@
         </script>
 <p> 这首戏曲的曲名是《雄心壮志冲云天》。<br>​ 这首戏曲选自《红灯记》。<br>​ 这首戏曲属于剧种现代京剧。</p>
 <h1 id="12-蒙古民歌《四岁的红鬃马》p-71（片段一-片段二适用）"><a href="#12-蒙古民歌《四岁的红鬃马》p-71（片段一-片段二适用）" class="headerlink" title="12. 蒙古民歌《四岁的红鬃马》p. 71（片段一. 片段二适用）"></a>12. 蒙古民歌《四岁的红鬃马》p. 71（片段一. 片段二适用）</h1>
-        <div id="aplayer-WQvbJKnB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-PquGWQyT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-WQvbJKnB"),
+            element: document.getElementById("aplayer-PquGWQyT"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -874,12 +874,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-yQMlwUtP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-UAdpzZrY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yQMlwUtP"),
+            element: document.getElementById("aplayer-UAdpzZrY"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -896,12 +896,12 @@
         </script>
 <p> 这首歌曲的曲名是《四岁的红鬃马》。<br>​ 这首歌曲是蒙古族的民歌。<br>​ 这首歌曲运用了呼麦唱法来演唱。<br>​ 这首歌曲的伴奏乐器是马头琴。<br><del>这声音，非人哉</del></p>
 <h1 id="13-印度尼西亚民歌《星星索》p-72（片段一-片段二适用）"><a href="#13-印度尼西亚民歌《星星索》p-72（片段一-片段二适用）" class="headerlink" title="13. 印度尼西亚民歌《星星索》p. 72（片段一. 片段二适用）"></a>13. 印度尼西亚民歌《星星索》p. 72（片段一. 片段二适用）</h1>
-        <div id="aplayer-hHYtdCpo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-dgixWKLo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-hHYtdCpo"),
+            element: document.getElementById("aplayer-dgixWKLo"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -917,12 +917,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-KfzkAVwZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-iOUqySLH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-KfzkAVwZ"),
+            element: document.getElementById("aplayer-iOUqySLH"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -939,12 +939,12 @@
         </script>
 <p> 这首歌曲的曲名是《星星索》。<br>​ 这首歌曲是印度尼西亚的民歌。<br>​ 这是一首印度尼西亚的克隆宗歌曲。<br>​ 这首歌曲的演唱形式是男声合唱。<br>魔性，洗脑</p>
 <h1 id="14-加纳民歌《非洲赞歌》p-79（片段一-片段二适用）"><a href="#14-加纳民歌《非洲赞歌》p-79（片段一-片段二适用）" class="headerlink" title="14. 加纳民歌《非洲赞歌》p. 79（片段一. 片段二适用）"></a>14. 加纳民歌《非洲赞歌》p. 79（片段一. 片段二适用）</h1>
-        <div id="aplayer-IrlWXUTD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-EnYyDwof" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-IrlWXUTD"),
+            element: document.getElementById("aplayer-EnYyDwof"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -960,12 +960,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-uUMNihJi" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-rcKxNijM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-uUMNihJi"),
+            element: document.getElementById("aplayer-rcKxNijM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -982,12 +982,12 @@
         </script>
 <p> 这首歌曲的曲名是《非洲赞歌》。<br>​ 这首歇曲的曲名是非洲赞歌。<br>​ 这首歌曲的风格属于非洲地区。<br>​ 这首歌曲名为《非洲赞歌》是<del>拉丁美洲</del>（<strong>非洲</strong>）的传统歌曲。<br><del>一班班歌，不接受反驳</del></p>
 <h1 id="15-保加利亚民歌《鸟儿在歌唱》p-88（片段一-片段二适用）"><a href="#15-保加利亚民歌《鸟儿在歌唱》p-88（片段一-片段二适用）" class="headerlink" title="15. 保加利亚民歌《鸟儿在歌唱》p. 88（片段一. 片段二适用）"></a>15. 保加利亚民歌《鸟儿在歌唱》p. 88（片段一. 片段二适用）</h1>
-        <div id="aplayer-sVvfzcCh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-OQwdwsnI" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-sVvfzcCh"),
+            element: document.getElementById("aplayer-OQwdwsnI"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1003,12 +1003,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-DXHhyavk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-vesFlXuJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-DXHhyavk"),
+            element: document.getElementById("aplayer-vesFlXuJ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1025,12 +1025,12 @@
         </script>
 <p> 这首歌曲的曲名是《鸟儿在歌唱》。<br>​ 这首歌曲是保加利亚国家的民歌。<br>​ 这首歌曲运用了欧亚唱法。<br>​ 这首歌曲中采用了自由的喉音和类似金属声的二度音程。（√）</p>
 <h1 id="16-探戈舞曲《小伙伴》p-97（片段一-片段二适用）"><a href="#16-探戈舞曲《小伙伴》p-97（片段一-片段二适用）" class="headerlink" title="16. 探戈舞曲《小伙伴》p. 97（片段一. 片段二适用）"></a>16. 探戈舞曲《小伙伴》p. 97（片段一. 片段二适用）</h1>
-        <div id="aplayer-RWSriwwN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-nHPoAEpV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-RWSriwwN"),
+            element: document.getElementById("aplayer-nHPoAEpV"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1046,12 +1046,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-UscKffHt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-WsknsEeA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UscKffHt"),
+            element: document.getElementById("aplayer-WsknsEeA"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1068,12 +1068,12 @@
         </script>
 <p> 这首音乐的风格属于拉丁美洲。<br>​ 这首音乐是阿根廷著名的探戈舞曲。<br>​ 这首音乐是阿根廷著名的探戈舞曲。（√）</p>
 <h1 id="17-贝多芬《第九交响曲》p-111（片段一）"><a href="#17-贝多芬《第九交响曲》p-111（片段一）" class="headerlink" title="17. 贝多芬《第九交响曲》p. 111（片段一）"></a>17. 贝多芬《第九交响曲》p. 111（片段一）</h1>
-        <div id="aplayer-yDuNKGox" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-LTeCzHaE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-yDuNKGox"),
+            element: document.getElementById("aplayer-LTeCzHaE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1090,12 +1090,12 @@
         </script>
 <p> 这首作品是第九交响曲，是贝多芬晚期的代表作品。<br>​ 这段音乐出自贝多芬的《第九交响曲》的第四乐章，合唱部分以德国诗人席勒的诗作《欢乐颂》作为歌词。<br>​ 这个作品是贝多芬的《第九交响曲》其中在第四乐章，贝多芬史无前例地将人声引入庞大的管弦乐队中。（√）<br>​ 这首作品是贝多芬的《第九交响曲》，这是其中的第四乐章。<br>​</p>
 <h2 id="贝多芬《第九交响曲》（片段二）"><a href="#贝多芬《第九交响曲》（片段二）" class="headerlink" title="贝多芬《第九交响曲》（片段二）"></a>贝多芬《第九交响曲》（片段二）</h2>
-        <div id="aplayer-zaOfDlDA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-QSdqlClK" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-zaOfDlDA"),
+            element: document.getElementById("aplayer-QSdqlClK"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1112,12 +1112,12 @@
         </script>
 <p> 这是贝多芬《第九交响曲》第四乐章中的“欢乐“主题，最初，这个主题由<del>大提琴和小提琴</del>（<strong>大提琴和低音提琴</strong>）奏出。</p>
 <h1 id="18-舒伯特《鳟鱼》p-117（片段一-片段二适用）"><a href="#18-舒伯特《鳟鱼》p-117（片段一-片段二适用）" class="headerlink" title="18. 舒伯特《鳟鱼》p. 117（片段一. 片段二适用）"></a>18. 舒伯特《鳟鱼》p. 117（片段一. 片段二适用）</h1>
-        <div id="aplayer-UlkWxbkT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-UHLqwmbB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UlkWxbkT"),
+            element: document.getElementById("aplayer-UHLqwmbB"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1133,12 +1133,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-MtWCtxju" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-OHTOixYa" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-MtWCtxju"),
+            element: document.getElementById("aplayer-OHTOixYa"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1155,12 +1155,12 @@
         </script>
 <p> 这首作品是舒伯特在1817年夏天写成的一首艺术歌曲。<br>​ 这首作品是一首艺术歌曲。<br>​ 这首作品是舒伯特的一首艺术歌曲—《鳟鱼》，歌词取材于德国诗人<del>歌德</del>（<strong>舒尔特</strong>）的一首浪漫诗。<br>​ 这首作品是舒伯特的《鳟鱼》，它是一首艺术歌曲。（√）<br>​ 这首作品是舒伯特创作的一首艺术歜曲，歇词取材于德国诗人舒尔巴的一首浪漫诗。</p>
 <h1 id="19-肖邦《c小调练习曲》p-121（片段一-片段二适用）"><a href="#19-肖邦《c小调练习曲》p-121（片段一-片段二适用）" class="headerlink" title="19. 肖邦《c小调练习曲》p. 121（片段一. 片段二适用）"></a>19. 肖邦《c小调练习曲》p. 121（片段一. 片段二适用）</h1>
-        <div id="aplayer-tcxkCQBl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-AysuukgE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-tcxkCQBl"),
+            element: document.getElementById("aplayer-AysuukgE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1176,12 +1176,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-UpuuLLCG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-YSLfZtYU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UpuuLLCG"),
+            element: document.getElementById("aplayer-YSLfZtYU"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1198,12 +1198,12 @@
         </script>
 <p> 这是肖邦创作的作品《c小调练习曲》，后人称之为革命练习曲。<br>​ 这首作品表达了悲愤的憎绪。<br>​ 这首作品是肖邦的《c小调练习曲》。（√）<br>​ 这首作品是肖邦的一首钢琴作品，它是一首钢琴练习曲。（√）<br>​ 这首作品是肖邦创作的一首钢琴练习曲，他的作品被誉为是隐藏在花丛中的一尊大炮。</p>
 <h1 id="20-斯美塔那《捷克的原野和森林》p-130（片段一）"><a href="#20-斯美塔那《捷克的原野和森林》p-130（片段一）" class="headerlink" title="20. 斯美塔那《捷克的原野和森林》p. 130（片段一）"></a>20. 斯美塔那《捷克的原野和森林》p. 130（片段一）</h1>
-        <div id="aplayer-ZHPCyYxX" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-kuQDgPgL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ZHPCyYxX"),
+            element: document.getElementById("aplayer-kuQDgPgL"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1220,12 +1220,12 @@
         </script>
 <p> 这首作品是捷克作曲家斯美塔那的交响诗套曲《我的祖国》中的一首，它的名字是《捷克的原野和森林》<br>​ 这首作品的曲作者是斯美塔那。<br>​ 这首作品的曲作者斯美塔那，是捷克民族乐派的创立者。这是他交响诗套曲《我的祖国》中的其中一首<del>《沃尔塔瓦河》</del>（<strong>《捷克的原野和森林》</strong>）。<br>​ 这首作品的曲作者一生致力于发展民族音乐事业，为捷克专业音乐开辟了道路。这位作曲家是斯美塔那。（√)<br>​</p>
 <h2 id="斯美塔那《捷克的原野和森林》（片段二）"><a href="#斯美塔那《捷克的原野和森林》（片段二）" class="headerlink" title="斯美塔那《捷克的原野和森林》（片段二）"></a>斯美塔那《捷克的原野和森林》（片段二）</h2>
-        <div id="aplayer-RRfwwvVF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-eAPCroym" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-RRfwwvVF"),
+            element: document.getElementById("aplayer-eAPCroym"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1242,12 +1242,12 @@
         </script>
 <p> 这一主题用圆号奏出捷克民歌特点的旋律，表现出对祖国. 对生活的礼赞。</p>
 <h1 id="21-德彪西《亚麻色头发的少女》p-146（片段一-片段二适用"><a href="#21-德彪西《亚麻色头发的少女》p-146（片段一-片段二适用" class="headerlink" title="21. 德彪西《亚麻色头发的少女》p. 146（片段一. 片段二适用"></a>21. 德彪西《亚麻色头发的少女》p. 146（片段一. 片段二适用</h1>
-        <div id="aplayer-MzpEjHcG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-AEcivAwM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-MzpEjHcG"),
+            element: document.getElementById("aplayer-AEcivAwM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1263,12 +1263,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-EAhVXaeW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ChVLzBuc" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-EAhVXaeW"),
+            element: document.getElementById("aplayer-ChVLzBuc"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1285,12 +1285,12 @@
         </script>
 <p> 这首作品的曲作者是法国作曲家德彪西。<br>​ 这首作品是典型的的印象主义音乐风格。<br>​ 这首作品是《亚麻色头发的少女》，是法国作曲家德彪西创作的一首钢琴小品。（√）<br>​ 这首作品属于印象主义音乐。（√）<br>​ 这首作品的曲名是《亚麻色头发的少女》。<br>书上的图片好康（￣▽￣）</p>
 <h1 id="22-路易斯阿姆斯特朗《南部之子》p-160（片段一）"><a href="#22-路易斯阿姆斯特朗《南部之子》p-160（片段一）" class="headerlink" title="22. 路易斯阿姆斯特朗《南部之子》p. 160（片段一）"></a>22. 路易斯阿姆斯特朗《南部之子》p. 160（片段一）</h1>
-        <div id="aplayer-WCzgkNFY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-sxfBffSZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-WCzgkNFY"),
+            element: document.getElementById("aplayer-sxfBffSZ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1307,12 +1307,12 @@
         </script>
 <p> 这首乐曲速度稍快，表达了演奏者愉悦的心情。<br>​ 乐曲开始的前半部分是以小号为主的爵士乐队演奏。<br>​ 这首作品的表演者是路易斯阿姆斯特朗，他是迪克西兰爵士的代表人物。（√）<br>​ 这首作品的表演者路易斯阿姆斯特朗，他的作品数量众多，被称为爵士乐之父。</p>
 <h2 id="路易斯·阿姆斯特朗《南部之子》（片段二）"><a href="#路易斯·阿姆斯特朗《南部之子》（片段二）" class="headerlink" title="路易斯·阿姆斯特朗《南部之子》（片段二）"></a>路易斯·阿姆斯特朗《南部之子》（片段二）</h2>
-        <div id="aplayer-OJFlNyvm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-AxxtxrNQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-OJFlNyvm"),
+            element: document.getElementById("aplayer-AxxtxrNQ"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1329,12 +1329,12 @@
         </script>
 <p>这是一首由路易斯·阿姆斯特朗唱的爵土音乐。</p>
 <h1 id="23-《流水》p-167（片段一）"><a href="#23-《流水》p-167（片段一）" class="headerlink" title="23. 《流水》p. 167（片段一）"></a>23. 《流水》p. 167（片段一）</h1>
-        <div id="aplayer-PZnyprnD" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-XHxtuIix" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-PZnyprnD"),
+            element: document.getElementById("aplayer-XHxtuIix"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1351,12 +1351,12 @@
         </script>
 <p> 这首作品是一首古琴曲。<br>​ 这首古琴曲是《流水》，它是我国最古老的琴曲之一。<br>​ 这首乐曲是一首<del>古筝曲</del>（<strong>古琴曲</strong>），它充分发挥了滚. 拂. 绰. 注的手法。<br>​ 这首作品是古琴曲《流水》，它与伯牙子期高山流水遇知音的故事有关。（√）</p>
 <h2 id="《流水》（片段二）"><a href="#《流水》（片段二）" class="headerlink" title="《流水》（片段二）"></a>《流水》（片段二）</h2>
-        <div id="aplayer-rbvwTNyP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-BszRRtAd" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-rbvwTNyP"),
+            element: document.getElementById("aplayer-BszRRtAd"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1373,12 +1373,12 @@
         </script>
 <p> 这一段音乐主要是用泛音演奏的曲调，富有跳动性，仿佛清泉溪水从高山峡谷中淙淙奔流而出。</p>
 <h1 id="24-李叔同《祖国歌》p-178（片段一-片段二适用）"><a href="#24-李叔同《祖国歌》p-178（片段一-片段二适用）" class="headerlink" title="24. 李叔同《祖国歌》p. 178（片段一. 片段二适用）"></a>24. 李叔同《祖国歌》p. 178（片段一. 片段二适用）</h1>
-        <div id="aplayer-kENRVDkN" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-sSuRPWDE" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-kENRVDkN"),
+            element: document.getElementById("aplayer-sSuRPWDE"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1394,12 +1394,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-PyLsjChL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-kyiCLuxL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-PyLsjChL"),
+            element: document.getElementById("aplayer-kyiCLuxL"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1416,12 +1416,12 @@
         </script>
 <p> 这首歌曲是李叔同先生所作的《祖国歌》。<br>​ 这首歌曲改编自我国民间曲调《老六板》。<br>​ 这首作品是<del>沈心工</del>（<strong>李叔同</strong>）先生创作的《祖国歌》它是一首学堂乐歌。</p>
 <h1 id="25-《渔阳鼙鼓动地来》p-183（片段一-片段二适用）"><a href="#25-《渔阳鼙鼓动地来》p-183（片段一-片段二适用）" class="headerlink" title="25. 《渔阳鼙鼓动地来》p. 183（片段一. 片段二适用）"></a>25. 《渔阳鼙鼓动地来》p. 183（片段一. 片段二适用）</h1>
-        <div id="aplayer-nnOcUtRZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-VBaajHka" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-nnOcUtRZ"),
+            element: document.getElementById("aplayer-VBaajHka"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1437,12 +1437,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-UbFgRiQU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-lzdOpcJY" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-UbFgRiQU"),
+            element: document.getElementById("aplayer-lzdOpcJY"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1459,12 +1459,12 @@
         </script>
 <p> 这首歌曲的曲名是《渔阳鼙鼓动地来》。<br>​ 这首歌曲是清唱剧《长恨歌》中的第三乐章。<br>​ 这首歌曲的作者是黄自。<br>​ 这首歌曲选自《长恨歌》是清唱剧体裁。<br>​ 这首歌曲的演唱形式是男生合唱。（√）</p>
 <h1 id="26-《金蛇狂舞》p-190（片段一）"><a href="#26-《金蛇狂舞》p-190（片段一）" class="headerlink" title="26. 《金蛇狂舞》p. 190（片段一）"></a>26. 《金蛇狂舞》p. 190（片段一）</h1>
-        <div id="aplayer-SqYXloDV" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-IJmRzPhl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-SqYXloDV"),
+            element: document.getElementById("aplayer-IJmRzPhl"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1481,12 +1481,12 @@
         </script>
 <p> 这首乐曲的曲名是《金蛇狂舞》。<br>​ 这首乐曲的演奏形式是民乐合奏。<br>​ 这首乐曲是由作曲家聂耳根据传统乐曲《倒八板》改编创作的一首民乐合奏。（√）<br>​ 这首乐曲表现了民俗活动赛龙舟的热烈场景和欢腾的情绪。</p>
 <h2 id="《金蛇狂舞》（片段二）"><a href="#《金蛇狂舞》（片段二）" class="headerlink" title="《金蛇狂舞》（片段二）"></a>《金蛇狂舞》（片段二）</h2>
-        <div id="aplayer-QKkSnrTZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-FQqRQAVU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-QKkSnrTZ"),
+            element: document.getElementById("aplayer-FQqRQAVU"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1503,12 +1503,12 @@
         </script>
 <p> 这首乐曲是由作曲家聂耳根据传统乐曲《倒八板》改编创作的一首民乐合奏。<br>​ 乐曲片段中所用的民间音乐创作手法是“螺蛳结顶”。（√）<br>​ 乐曲片段中所用的民间音乐创作手法是<del>“鱼咬尾”</del>（螺蛳结顶）。</p>
 <h1 id="27-《毕业歌》p-191（片段一-片段二适用）"><a href="#27-《毕业歌》p-191（片段一-片段二适用）" class="headerlink" title="27. 《毕业歌》p. 191（片段一. 片段二适用）"></a>27. 《毕业歌》p. 191（片段一. 片段二适用）</h1>
-        <div id="aplayer-EYjJEmbs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-CuIWeOmH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-EYjJEmbs"),
+            element: document.getElementById("aplayer-CuIWeOmH"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1524,12 +1524,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-OWgclcyM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-KxsEIozr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-OWgclcyM"),
+            element: document.getElementById("aplayer-KxsEIozr"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1546,12 +1546,12 @@
         </script>
 <p> 这首歌曲的曲名是《毕业歌》。<br>​ 这首歌曲的曲名是《毕业歌》。<br>​ 这首歌曲的曲作者是聂耳。<br>​ 这首歌曲名为《毕业歌》，是影片《桃李劫 》的主题歌。（√）</p>
 <h1 id="28-《保卫黄河》p-199（片段一-片段二适用）"><a href="#28-《保卫黄河》p-199（片段一-片段二适用）" class="headerlink" title="28. 《保卫黄河》p. 199（片段一. 片段二适用）"></a>28. 《保卫黄河》p. 199（片段一. 片段二适用）</h1>
-        <div id="aplayer-LMdjZxRn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-MaBAMtDS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-LMdjZxRn"),
+            element: document.getElementById("aplayer-MaBAMtDS"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1567,12 +1567,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-EJmuTfxe" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-KaafMsql" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-EJmuTfxe"),
+            element: document.getElementById("aplayer-KaafMsql"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1589,12 +1589,12 @@
         </script>
 <p> 这首歌曲的曲名是《保卫黄河》。<br>​ 这首歌曲的作者是冼星海，他被称为人民音乐家。<br>​ 这首歌曲选自《黄河大合唱》，它是声乐套曲体裁。<br>​ 这首歌曲的作者是冼星海。<br>​ 这首歌曲选自大型声乐套曲《黄河大合唱》。（√）</p>
 <h1 id="29-《我和我的祖国》p-209（片段一）"><a href="#29-《我和我的祖国》p-209（片段一）" class="headerlink" title="29. 《我和我的祖国》p. 209（片段一）"></a>29. 《我和我的祖国》p. 209（片段一）</h1>
-        <div id="aplayer-FaLGMiYQ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-ySIkoAks" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-FaLGMiYQ"),
+            element: document.getElementById("aplayer-ySIkoAks"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1611,12 +1611,12 @@
         </script>
 <p> 这首歌曲的曲名是《我和我的祖国》。<br>​ 这首歌曲的作者是秦咏诚。<br>​ 请写出你所听到的段落，共有4个乐句。<br>​ 这首歌曲的歌词通俗易懂，真亲切，曲调流畅，抒情，激越，是一首适合大众演唱的群众歌曲。（√）</p>
 <h3 id="《我和我的祖国》（片段二）"><a href="#《我和我的祖国》（片段二）" class="headerlink" title="《我和我的祖国》（片段二）"></a>《我和我的祖国》（片段二）</h3>
-        <div id="aplayer-EwkipnUp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-XmoSKZlS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-EwkipnUp"),
+            element: document.getElementById("aplayer-XmoSKZlS"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1633,12 +1633,12 @@
         </script>
 <p> 这首歌曲的曲名是《我和我的祖国》。<br>​ 这首歌曲的歌词通俗易慬，真挚亲切，曲调流畅，抒情，激越，是首适合大众演唱的<del>艺术歌曲</del>（<strong>群众歌曲</strong>）。<br>​ 这首歌曲的作者是作曲家<del>施光南</del>（<strong>秦咏诚</strong>）先生。</p>
 <h1 id="30-《清粼粼的水来蓝盈盈的天》p-221（片段一-片段二适用）"><a href="#30-《清粼粼的水来蓝盈盈的天》p-221（片段一-片段二适用）" class="headerlink" title="30. 《清粼粼的水来蓝盈盈的天》p. 221（片段一. 片段二适用）"></a>30. 《清粼粼的水来蓝盈盈的天》p. 221（片段一. 片段二适用）</h1>
-        <div id="aplayer-vKbMZfgv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-BNPqsSAR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-vKbMZfgv"),
+            element: document.getElementById("aplayer-BNPqsSAR"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1654,12 +1654,12 @@
           window.aplayers.push(ap);
         </script>
 
-        <div id="aplayer-mLHhWDlR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-coeNNlXs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-mLHhWDlR"),
+            element: document.getElementById("aplayer-coeNNlXs"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1676,12 +1676,12 @@
         </script>
 <p> 这首歌曲的曲名是《清粼粼的水来蓝盈盈的天》。<br>​ 这首歌曲的是用民族唱法演唱的。<br> ​这首歌曲选自中国新歌剧作品《白毛女》。<br>​ 这首歌曲的音乐素材以山西的民歌和山西. 河南. 河北地方戏曲音乐作为素材，具有浓厚的地方风格。</p>
 <h1 id="31-《祖国颂》p-238（片段一）"><a href="#31-《祖国颂》p-238（片段一）" class="headerlink" title="31. 《祖国颂》p. 238（片段一）"></a>31. 《祖国颂》p. 238（片段一）</h1>
-        <div id="aplayer-cwXJgEdZ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-bhWEnkOv" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-cwXJgEdZ"),
+            element: document.getElementById("aplayer-bhWEnkOv"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1698,12 +1698,12 @@
         </script>
 <p> 这首歌曲的曲名是《祖国颂》。<br>​ 这首歌曲的演唱形式是混声合唱。<br> ​你所听到的歌曲片段的旋律特点悠长宽广。<br>​ 所听片段中，歌曲第一句“太阳跳出了东海”是由男高声部进行演唱的。</p>
 <h2 id="《祖国颂》（片段二）"><a href="#《祖国颂》（片段二）" class="headerlink" title="《祖国颂》（片段二）"></a>《祖国颂》（片段二）</h2>
-        <div id="aplayer-GniTDmxB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-jnFCXStr" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-GniTDmxB"),
+            element: document.getElementById("aplayer-jnFCXStr"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -1751,7 +1751,7 @@
           
             <div class="post-nepre full next">
           
-            <a href="/mmd friends" rel="next">
+            <a href="/mmdfriends" rel="next">
               <div class="background">
                 <img class="lazyload" src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/29.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/29.jpg">
               </div>
