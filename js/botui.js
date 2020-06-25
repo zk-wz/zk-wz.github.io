@@ -2545,13 +2545,13 @@ function bot_ui_ini() {
         end = function() {
             botui.message.add({
                 delay: 600,
-                content: "![...](https://view.moezx.cc/images/2018/05/06/a1c4cd0452528b572af37952489372b6.md.jpg)"
+                content: "![...](https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/9.jpg)"
             })
         },
         secondpart = function() {
             botui.message.add({
                 delay: 1500,
-                content: "目前就读于无锡市辅仁高级中学"
+                content: "一届学生党"
             }).then(function() {
                 botui.message.add({
                     delay: 1500,
@@ -2571,7 +2571,7 @@ function bot_ui_ini() {
                             }).then(function() {
                                 botui.message.add({
                                     delay: 1800,
-                                    content: "喜欢画画，希望有一天能够被称为画师"
+                                    content: "喜欢动漫，喜欢通过动漫混剪来表达自己对动漫的感受"
                                 }).then(function() {
                                     botui.action.button({
                                         delay: 1100,
@@ -2597,7 +2597,7 @@ function bot_ui_ini() {
                 botui.action.button({
                     delay: 1500,
                     action: [{
-                        text: "为什么是白猫呢？ 🤔",
+                        text: "平时看些什么书",
                         value: "why-cat"
                     }]
                 }).then(function(a) {
@@ -2608,11 +2608,11 @@ function bot_ui_ini() {
         fourthpart = function() {
             botui.message.add({
                 delay: 1E3,
-                content: "因为对GitHub有种执念… "
+                content: "轻小说"
             }).then(function() {
                 botui.message.add({
                     delay: 1100,
-                    content: "而且我真的是猫控！"
+                    content: "，尤其是新海诚的作品，正在一部部看回去 "
                 }).then(function() {
                     botui.action.button({
                         delay: 1500,
@@ -2629,7 +2629,7 @@ function bot_ui_ini() {
         fifthpart = function() {
             botui.message.add({
                 delay: 1E3,
-                content: "emmmm，便宜而已"
+                content: "就是我的昵称的缩写啦~"
             }).then(function() {
                 botui.message.add({
                     delay: 1600,

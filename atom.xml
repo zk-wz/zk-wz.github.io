@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-06-21T06:22:16.461Z</updated>
+  <updated>2020-06-25T05:46:46.323Z</updated>
   <id>/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>音乐考试相关整理</title>
-    <link href="/musicexam"/>
-    <id>/musicexam</id>
+    <link href="/2020/04/04/musicexam/"/>
+    <id>/2020/04/04/musicexam/</id>
     <published>2020-04-04T01:35:49.000Z</published>
-    <updated>2020-06-21T06:22:16.461Z</updated>
+    <updated>2020-06-25T05:46:46.323Z</updated>
     
     <summary type="html">
     
@@ -37,33 +37,9 @@
   </entry>
   
   <entry>
-    <title>《论在MMD群实质上是Blender群的八人日常》</title>
-    <link href="/mmdfriends"/>
-    <id>/mmdfriends</id>
-    <published>2020-04-01T04:10:14.000Z</published>
-    <updated>2020-04-01T04:58:29.487Z</updated>
-    
-    <summary type="html">
-    
-      羞耻度爆表的轻小说
-    
-    </summary>
-    
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="web" scheme="/tags/web/"/>
-    
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-      <category term="转载" scheme="/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
     <title>转载：MMD动作数据安利</title>
-    <link href="/mmdactionrecommandation"/>
-    <id>/mmdactionrecommandation</id>
+    <link href="/2020/03/10/mmdactionrecommandation/"/>
+    <id>/2020/03/10/mmdactionrecommandation/</id>
     <published>2020-03-10T09:12:34.000Z</published>
     <updated>2020-04-01T03:10:55.358Z</updated>
     
@@ -84,8 +60,8 @@
   
   <entry>
     <title>MMD教程(2)</title>
-    <link href="/mmdtutorial2"/>
-    <id>/mmdtutorial2</id>
+    <link href="/2020/02/12/mmdtutorial2/"/>
+    <id>/2020/02/12/mmdtutorial2/</id>
     <published>2020-02-12T01:48:54.000Z</published>
     <updated>2020-04-04T01:39:14.031Z</updated>
     
@@ -105,15 +81,15 @@
   </entry>
   
   <entry>
-    <title>MMD教程(1)</title>
-    <link href="/mmdtutorial1"/>
-    <id>/mmdtutorial1</id>
+    <title>MMD教程</title>
+    <link href="/2020/02/10/mmdtutorial1/"/>
+    <id>/2020/02/10/mmdtutorial1/</id>
     <published>2020-02-10T12:02:47.000Z</published>
-    <updated>2020-04-01T03:29:07.059Z</updated>
+    <updated>2020-06-25T06:19:57.300Z</updated>
     
     <summary type="html">
     
-      关于MMD的介绍
+      未完结，持续更新中
     
     </summary>
     
@@ -127,55 +103,11 @@
   </entry>
   
   <entry>
-    <title>新功能：看板娘！</title>
-    <link href="/newfunction"/>
-    <id>/newfunction</id>
-    <published>2020-02-06T03:35:21.000Z</published>
-    <updated>2020-04-01T03:19:49.999Z</updated>
-    
-    <summary type="html">
-    
-      看板娘来啦!
-    
-    </summary>
-    
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="web" scheme="/tags/web/"/>
-    
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ACT&amp;CREATE</title>
-    <link href="/ac"/>
-    <id>/ac</id>
-    <published>2020-02-04T03:38:53.000Z</published>
-    <updated>2020-04-01T03:29:30.747Z</updated>
-    
-    <summary type="html">
-    
-      水一篇(^・ω・^ )
-    
-    </summary>
-    
-      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="web" scheme="/tags/web/"/>
-    
-      <category term="图集" scheme="/tags/%E5%9B%BE%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
     <title>本站食用指南</title>
-    <link href="/introduction"/>
-    <id>/introduction</id>
+    <link href="/2020/02/03/introduction/"/>
+    <id>/2020/02/03/introduction/</id>
     <published>2020-02-03T03:00:26.000Z</published>
-    <updated>2020-04-01T03:19:00.476Z</updated>
+    <updated>2020-06-25T06:30:27.081Z</updated>
     
     <summary type="html">
     
