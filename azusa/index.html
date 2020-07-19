@@ -55,18 +55,15 @@ body{margin:0;background:#000}
     })
     $('.play').click(function(){
       if ($(this).hasClass('fa-play')) {
-		    function playAudio() {
-          azusa.audio.play(); }
-          console.log('zzbf')
-          $(this).addClass('fa-pause');
-          $(this).removeClass('fa-play');
+        azusa.audio.play();
+        console.log('zzbf')
+        $(this).addClass('fa-pause');
+        $(this).removeClass('fa-play');
+      } else {
+        azusa.audio.stop();
+        $(this).addClass('fa-play');
+        $(this).removeClass('fa-pause');
       }
-      else {
-		    function pauseAudio() {
-          azusa.audio.pause(); }
-          $(this).addClass('fa-play');
-          $(this).removeClass('fa-pause');
-     }
     });
   }
 </script>
