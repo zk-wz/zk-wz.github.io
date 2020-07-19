@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>掌控-物质の无用站</title>
   
-  <subtitle>一个无聊的地方</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-07-07T09:47:47.153Z</updated>
+  <updated>2020-07-19T07:51:09.689Z</updated>
   <id>/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="/2020/07/07/DreamoftheRedChamber/"/>
     <id>/2020/07/07/DreamoftheRedChamber/</id>
     <published>2020-07-07T01:35:49.000Z</published>
-    <updated>2020-07-07T09:47:47.153Z</updated>
+    <updated>2020-07-19T07:51:09.689Z</updated>
     
     <summary type="html">
     
@@ -41,7 +41,7 @@
     <link href="/2020/03/10/mmdactionrecommandation/"/>
     <id>/2020/03/10/mmdactionrecommandation/</id>
     <published>2020-03-10T09:12:34.000Z</published>
-    <updated>2020-07-07T09:46:17.789Z</updated>
+    <updated>2020-07-19T07:51:01.676Z</updated>
     
     <summary type="html">
     
@@ -63,7 +63,7 @@
     <link href="/2020/02/10/mmdtutorial/"/>
     <id>/2020/02/10/mmdtutorial/</id>
     <published>2020-02-10T12:02:47.000Z</published>
-    <updated>2020-07-07T09:46:22.738Z</updated>
+    <updated>2020-07-19T07:50:54.289Z</updated>
     
     <summary type="html">
     
@@ -85,7 +85,7 @@
     <link href="/2020/02/03/introduction/"/>
     <id>/2020/02/03/introduction/</id>
     <published>2020-02-03T03:00:26.000Z</published>
-    <updated>2020-07-07T09:46:14.365Z</updated>
+    <updated>2020-07-19T08:13:07.842Z</updated>
     
     <summary type="html">
     
