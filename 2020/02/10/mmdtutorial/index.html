@@ -1,66 +1,151 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head><meta name="generator" content="Hexo 3.9.0">
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
-  
-  <title itemprop="name">MMD教程 | 掌控-物质の无用站</title>
-  
-    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/1.jpg">
-  
-  <meta http-equiv="x-dns-prefetch-control" content="on">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+SerifMerriweather|Merriweather+Sans|Source+Code+Pro|Ubuntu:400,700|Noto+Serif+SC" media="all">
-  <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
-  <link rel="stylesheet" id="saukra_css-css" href="/css/style.css" type="text/css" media="all">
-  <link rel="stylesheet" href="/css/lib.min.css" media="all">
-  <link rel="stylesheet" href="/css/font.css" media="all">
-  <link rel="stylesheet" href="/css/insight.css" media="all">
-  <link rel="stylesheet" href="/css/jquery.fancybox.min.css" media="all">
-  <link rel="stylesheet" href="/css/zoom.css" media="all">
-  <link rel="stylesheet" type="text/css" href="/css/sharejs.css">
-<!--   <link rel="stylesheet" id="saukra_css-css" href="https://2heng.xin/wp-content/cache/autoptimize/css/autoptimize_ad42a61f4c7d4bdd9f91afcff6b5dda5.css
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    
+        <title itemprop="name">
+            
+                Blender to MMD基础教程（上） |
+                    
+                        掌控-物质の无用站
+        </title>
+        
+            <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/1.jpg">
+            
+                <meta http-equiv="x-dns-prefetch-control" content="on">
+                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+SerifMerriweather|Merriweather+Sans|Source+Code+Pro|Ubuntu:400,700|Noto+Serif+SC" media="all">
+                <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+                <link rel="stylesheet" id="saukra_css-css" href="/css/style.css" type="text/css" media="all">
+                <link rel="stylesheet" href="/css/lib.min.css" media="all">
+                <link rel="stylesheet" href="/css/font.css" media="all">
+                <link rel="stylesheet" href="/css/insight.css" media="all">
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" media="all">
+                <link rel="stylesheet" href="/css/zoom.css" media="all">
+                <link rel="stylesheet" type="text/css" href="/css/sharejs.css">
+                <!--   <link rel="stylesheet" id="saukra_css-css" href="https://2heng.xin/wp-content/cache/autoptimize/css/autoptimize_ad42a61f4c7d4bdd9f91afcff6b5dda5.css
 " type="text/css" media="all"> -->
-  <script>
-  /*Initial Variables*/
-  var mashiro_option = new Object();
-  var mashiro_global = new Object();
-  mashiro_option.NProgressON = true;
-  /* 
-   * 邮箱信息之类的东西可以填在这里，这些js变量基本都作用于sakura-app.js
-   * 这样的设置仅是为了方便在基于PHP开发的主题中设置js变量，既然移植到了Node上，我想或许可以精简这一逻辑吧
-   */
-  mashiro_option.email_domain = "";
-  mashiro_option.email_name = "";
-  mashiro_option.cookie_version_control = "";
-  mashiro_option.qzone_autocomplete = false;
-  mashiro_option.site_name = "掌控-物质の无用站(｀・ω・´)";
-  mashiro_option.author_name = "(｀・ω・´)";
-  mashiro_option.site_url = "https://zk-wz.github.io/";
-  mashiro_option.v_appId = "fvgc8g3HLcvYDTSWStoqTqGC-gzGzoHsz";
-  mashiro_option.v_appKey = "w5lGIyG9rPm7IdMrQDDDcCiq";
-  mashiro_option.mathjax = "0";
-  mashiro_option.qq_api_url = "https://api.mashiro.top/qqinfo/"; 
-  mashiro_option.qq_avatar_api_url = "https://api.mashiro.top/qqinfo/";
+                <script>
+                    /*Initial Variables*/
+                    var mashiro_option = new Object();
+                    var mashiro_global = new Object();
+                    mashiro_option.NProgressON = true;
+                    /* 
+                     * 邮箱信息之类的东西可以填在这里，这些js变量基本都作用于sakura-app.js
+                     * 这样的设置仅是为了方便在基于PHP开发的主题中设置js变量，既然移植到了Node上，我想或许可以精简这一逻辑吧
+                     */
+                    mashiro_option.email_domain = "";
+                    mashiro_option.email_name = "";
+                    mashiro_option.cookie_version_control = "";
+                    mashiro_option.qzone_autocomplete = false;
+                    mashiro_option.site_name = "掌控-物质の无用站(｀・ω・´)";
+                    mashiro_option.author_name = "(｀・ω・´)";
+                    mashiro_option.site_url = "https://zk-wz.github.io/";
+                    mashiro_option.v_appId = "fvgc8g3HLcvYDTSWStoqTqGC-gzGzoHsz";
+                    mashiro_option.v_appKey = "w5lGIyG9rPm7IdMrQDDDcCiq";
+                    mashiro_option.mathjax = "0";
+                    mashiro_option.qq_api_url = "https://api.mashiro.top/qqinfo/";
+                    mashiro_option.qq_avatar_api_url = "https://api.mashiro.top/qqinfo/";
 
-  // mashiro_option.jsdelivr_css_src = "https://cdn.jsdelivr.net/gh/moezx/cdn@3.4.5/css/lib.min.css";
-  // mashiro_option.float_player_on = true;
+                    // mashiro_option.jsdelivr_css_src = "https://cdn.jsdelivr.net/gh/moezx/cdn@3.4.5/css/lib.min.css";
+                    // mashiro_option.float_player_on = true;
 
-  /*End of Initial Variables*/
-  </script>
-  <script type="text/javascript">
-  var bg = "https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/2.jpg".split(",");
-  var bgindex = Math.floor(Math.random()*bg.length);
-  if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
-    alert('朋友，IE浏览器未适配哦~');
-  }
-  </script>
-  <style type="text/css">
-  .hljs-ln{border-collapse:collapse}.hljs-ln td{padding:0}.hljs-ln-n:before{content:attr(data-line-number)}
-  </style>
-  <style type="text/css">.site-top .lower nav{display:block !important;}.author-profile i,.post-like a,.post-share .show-share,.sub-text,.we-info a,span.sitename,.post-more i:hover,#pagination a:hover,.post-content a:hover,.float-content i:hover{color:#FE9600}.feature i,.download,.navigator i:hover,.links ul li:before,.ar-time i,span.ar-circle,.object,.comment .comment-reply-link,.siren-checkbox-radio:checked + .siren-checkbox-radioInput:after{background:#FE9600}::-webkit-scrollbar-thumb{background:#FE9600}.download,.navigator i:hover,.link-title,.links ul li:hover,#pagination a:hover,.comment-respond input[type='submit']:hover{border-color:#FE9600}.entry-content a:hover,.site-info a:hover,.comment h4 a,#comments-navi a.prev,#comments-navi a.next,.comment h4 a:hover,.site-top ul li a:hover,.entry-title a:hover,#archives-temp h3,span.page-numbers.current,.sorry li a:hover,.site-title a:hover,i.iconfont.js-toggle-search.iconsearch:hover,.comment-respond input[type='submit']:hover{color:#FE9600}.comments .comments-main{display:block !important;}.comments .comments-hidden{display:none !important;}background-position:center center;background-attachment:inherit;}
-  </style>
-</head>
-</html>
+                    /*End of Initial Variables*/
+                </script>
+                <script type="text/javascript">
+                    var bg = "https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/2.jpg,https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/6.jpeg,https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/7.jpg,https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/12.jpg".split(",");
+                    var bgindex = Math.floor(Math.random() * bg.length);
+                    if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
+                        alert('朋友，IE浏览器未适配哦~');
+                    }
+                </script>
+                <style type="text/css">
+                    .hljs-ln {
+                        border-collapse: collapse
+                    }
+                    
+                    .hljs-ln td {
+                        padding: 0
+                    }
+                    
+                    .hljs-ln-n:before {
+                        content: attr(data-line-number)
+                    }
+                </style>
+                <style type="text/css">
+                .site-top .lower nav {
+                        display: block !important;
+                    }
+                    
+                    .author-profile i,
+                    .post-like a,
+                    .post-share .show-share,
+                    .sub-text,
+                    .we-info a,
+                    span.sitename,
+                    .post-more i:hover,
+                    #pagination a:hover,
+                    .post-content a:hover,
+                    .float-content i:hover {
+                        color: #FE9600
+                    }
+                    
+                    .feature i,
+                    .download,
+                    .navigator i:hover,
+                    .links ul li:before,
+                    .ar-time i,
+                    span.ar-circle,
+                    .object,
+                    .comment .comment-reply-link,
+                    .siren-checkbox-radio:checked+.siren-checkbox-radioInput:after {
+                        background: #FE9600
+                    }
+                    
+                    ::-webkit-scrollbar-thumb {
+                        background: #FE9600
+                    }
+                    
+                    .download,
+                    .navigator i:hover,
+                    .link-title,
+                    .links ul li:hover,
+                    #pagination a:hover,
+                    .comment-respond input[type='submit']:hover {
+                        border-color: #FE9600
+                    }
+                    
+                    .entry-content a:hover,
+                    .site-info a:hover,
+                    .comment h4 a,
+                    #comments-navi a.prev,
+                    #comments-navi a.next,
+                    .comment h4 a:hover,
+                    .site-top ul li a:hover,
+                    .entry-title a:hover,
+                    #archives-temp h3,
+                    span.page-numbers.current,
+                    .sorry li a:hover,
+                    .site-title a:hover,
+                    i.iconfont.js-toggle-search.iconsearch:hover,
+                    .comment-respond input[type='submit']:hover {
+                        color: #FE9600
+                    }
+                    
+                    .comments .comments-main {
+                        display: block !important;
+                    }
+                    
+                    .comments .comments-hidden {
+                        display: none !important;
+                    }
+                    
+                    background-position:center center;
+                    background-attachment:inherit;
+                }
+                </style>
+</head></html>
 <body class="page-template page-template-user page-template-page-analytics page-template-userpage-analytics-php page page-id-1297 chinese-font serif isWebKit">
   <div class="scrollbar" id="bar">
   </div>
@@ -104,14 +189,6 @@
                 <li>
                   <a href="https://space.bilibili.com/196597565" target="_blank" class="social-github" title="bilibili">
                     <img src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/social/bilibili.png">
-                  </a>
-                </li>
-              
-            
-              
-                <li>
-                  <a href="mailto:jxz15052280332@126.com" target="_blank" class="social-github" title="email">
-                    <img src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/social/email.svg">
                   </a>
                 </li>
               
@@ -218,7 +295,7 @@
                     
                       <li>
                         <a href="/categories/资源/">
-                          <i class="fa fa-cloud-download" aria-hidden="true"></i>
+                          <i class="fa fa-book" aria-hidden="true"></i>
                           资源
                         </a>
                       </li>
@@ -232,7 +309,7 @@
                     
                       <li>
                         <a href="/categories/转载/">
-                          <i class="fa fa-book" aria-hidden="true"></i>
+                          <i class="fa fa-cloud-download" aria-hidden="true"></i>
                           转载
                         </a>
                       </li>
@@ -385,7 +462,7 @@
     </div>
     <header class="pattern-header single-header">
       <h1 class="entry-title">
-      MMD教程</h1>
+      Blender to MMD基础教程（上）</h1>
       <p class="entry-census">
         <span>
           <a href="https://zk-wz.gitee.io/">
@@ -415,20 +492,12 @@
 <center> <b>学完这套教程，你就可以让自己的老婆起来跳舞啦！ </b></center>
 </blockquote>
 <p><em>题外话：这套教程持续时间可能较长<del>我比较鸽</del>，所以请耐心等等，时不时来我的博客看看，说不定我就更新了(●—●)</em></p>
-<p><strong>前排提醒</strong>：本套教程采用的是blender+mmd的做法，不想使用blender的同学请移至别处教程（本篇介绍教程并未涉及blender）</p>
+<p><strong>前排提醒</strong>：本套教程采用的是纯使用blender的做法，包含部分基础知识，可以当做blender入门教程来看</p>
 <p>部分资料来自百度</p>
 <h1 id="一些相关知识介绍"><a href="#一些相关知识介绍" class="headerlink" title="一些相关知识介绍"></a>一些相关知识介绍</h1><h2 id="什么是MMD？"><a href="#什么是MMD？" class="headerlink" title="什么是MMD？"></a>什么是MMD？</h2><p>MikuMikuDance是日本人樋口优所开发，将VOCALOID2的初音未来等角色制作3D动画的免费软件。 简称为MMD。2011年9月11日，樋口优宣布停止MMD新版本的开发工作。除了MikuMikuDance以外，樋口优还开发了能够将自己演唱的歌曲让初音未来等角色歌唱的“MikuMikuVoice”。</p>
 <p>MikuMikuDance程序自创建以来经历了重大升级。 它的制作是VOCALOID推广视频项目（VPVP）的一部分。</p>
 <p>MikuMikuDance允许用户将3D模型导入虚拟空间，可以相应地移动和动画。可以容易地改变3D图形的定位，可以改变面部表情（只要模型具有要使用的变形），并且可以将运动数据应用于模型以使其移动。</p>
-<center><br><img src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/13.jpg" height="800"><br></center>
-
-
-<h2 id="MMD发展史"><a href="#MMD发展史" class="headerlink" title="MMD发展史"></a>MMD发展史</h2><p>MikumikuDance原本最初只是作为让初音未来的3D模型自由舞蹈的简易3D动画软件，却没想到就在不经意之间创造出了一个神话。</p>
-<p>自从2008年2月24日樋口优在其个人网站VPVP(Vocaloid Promotion Video Project)中免费公开以来，这个小小的软件已经一步登天，不仅带动了一连串的3D动画制作产业链，还顺便成为了平民3D软件的救世主。通过这套软件，就连未曾接触过3D动画的新人都能够简单地制作出真正的3D动画。</p>
-<p>MMD的制作者樋口优，使得他产生制作MMD软件最初的动机，就仅仅是单纯为了想要让初音未来在屏幕上自由地运动起来而已。然而就结果而言，他所制作的软件却在3D动画业界掀起了破坏性的冲击。</p>
-<p>MMD的出现为诸多3D同人创作提供了可能性，使得一群热衷于二次创作的同人视频作者有了自己动手和发挥想象的空间，各种天马行空的剧情动画、舞蹈、MV、搞笑剧如火山爆发般喷涌而出，精美的自制模型与生动的原创剧情相结合吸引了大批为之兴奋不已的粉丝人群。</p>
-<p>当然，正如圈内那句话：“ghs是第一生产力。” MMD发展的过程中除了各种剧情动画，舞蹈动画之外，还有着大量的R18<del>绿色健康</del>内容，感兴趣的同学可以去ph站看看(需要会轻功)</p>
-<center><br><img src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/15.jpg" height="500"><br></center>
+<center><br><img src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/13.jpg" height="600"><br></center><br>## MMD发展史<br><br>MikumikuDance原本最初只是作为让初音未来的3D模型自由舞蹈的简易3D动画软件，却没想到就在不经意之间创造出了一个神话。<br><br>自从2008年2月24日樋口优在其个人网站VPVP(Vocaloid Promotion Video Project)中免费公开以来，这个小小的软件已经一步登天，不仅带动了一连串的3D动画制作产业链，还顺便成为了平民3D软件的救世主。通过这套软件，就连未曾接触过3D动画的新人都能够简单地制作出真正的3D动画。<br><br>MMD的制作者樋口优，使得他产生制作MMD软件最初的动机，就仅仅是单纯为了想要让初音未来在屏幕上自由地运动起来而已。然而就结果而言，他所制作的软件却在3D动画业界掀起了破坏性的冲击。<br><br>MMD的出现为诸多3D同人创作提供了可能性，使得一群热衷于二次创作的同人视频作者有了自己动手和发挥想象的空间，各种天马行空的剧情动画、舞蹈、MV、搞笑剧如火山爆发般喷涌而出，精美的自制模型与生动的原创剧情相结合吸引了大批为之兴奋不已的粉丝人群。<br><br>当然，正如圈内那句话：“ghs是第一生产力。” MMD发展的过程中除了各种剧情动画，舞蹈动画之外，还有着大量的R18<del>绿色健康</del>内容，感兴趣的同学可以去ph站看看(需要会轻功)<br><br><center><br><img src="https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/15.jpg" height="500"><br></center>
 
 <h2 id="圈内规则-amp-术语"><a href="#圈内规则-amp-术语" class="headerlink" title="圈内规则&amp;术语"></a>圈内规则&amp;术语</h2><ul>
 <li><p><strong>禁止二配</strong><br>讲到二配，这一直都是MMD圈内一个非常严肃的版权问题。二配，即二次配布，也就是说你下载了别人的MMD模型或动作，你可以修改，可以用它做视频，做的视频也可以上传到各个视频平台，但是你不能把模型或动作发给别人，即便自己没有修改，原封不动的都不能发给别人，是的你没看错，这也算二配。而这，也是你为什么能在别人的MMD作品下方看见写了一大串的借物表，却基本见不到模型下载链接的原因。有模型下载链接的，一种情况是自己原创的模型或动作，分享给别人使用，还有一种情况是经原作者同意后转载。如果以上两种情况都不符合却出现了下载链接，记得举报。（这里提醒一下，有些链接可能是原作者地址的链接，这种不算二配，注意分辨）</p>
@@ -534,10 +603,10 @@ BGM：
 
 <h2 id="其他资源"><a href="#其他资源" class="headerlink" title="其他资源"></a>其他资源</h2><p>上面的都是制作MMD的通用资源，但由于本套教程采用的是Blender+MMD的做法，所以我们还需要一些其他的资源。</p>
 <h2 id="Blender：https-www-blender-org-download-（必备）"><a href="#Blender：https-www-blender-org-download-（必备）" class="headerlink" title="Blender：https://www.blender.org/download/ （必备）"></a>Blender：<a href="https://www.blender.org/download/" target="_blank" rel="noopener">https://www.blender.org/download/</a> （必备）</h2><p>blender的更新过于频繁，所以我没有把我现在使用的版本发上来，因为随时可能更新，上边是官网下载地址，这篇教程使用的是blender2.81+blender2.83alpha版本，本篇教程要求至少使用一个blender2.82以上的版本，若是本下载页面找不到2.82以上版本请在网页下方找到go experimental，在那里可以下载到测试版本。</p>
-<h2 id="MMD-Bridge-链接-https-pan-baidu-com-s-1Rf5ojh7IIY3yqOOgEPTq6Q-提取码-kptj-（可选）"><a href="#MMD-Bridge-链接-https-pan-baidu-com-s-1Rf5ojh7IIY3yqOOgEPTq6Q-提取码-kptj-（可选）" class="headerlink" title="MMD Bridge 链接: https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q 提取码: kptj （可选）"></a>MMD Bridge 链接: <a href="https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q</a> 提取码: kptj （可选）</h2><p>使用MMD Bridge是因为单纯用插件把动作导入blender有不少问题，用这种方法导入动作更加稳定，但是物理解算就会有问题，博主上面的视频就是用的mmd bridge导入的abc。</p>
+<h2 id="MMD-Bridge-链接-https-pan-baidu-com-s-1Rf5ojh7IIY3yqOOgEPTq6Q-提取码-kptj-（可选）"><a href="#MMD-Bridge-链接-https-pan-baidu-com-s-1Rf5ojh7IIY3yqOOgEPTq6Q-提取码-kptj-（可选）" class="headerlink" title="MMD Bridge 链接: https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q 提取码: kptj （可选）"></a>MMD Bridge 链接: <a href="https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1Rf5ojh7IIY3yqOOgEPTq6Q</a> 提取码: kptj （可选）</h2><p>使用MMD Bridge是因为单纯用插件把动作导入blender有不少问题，用这种方法导入动作更加稳定，但是物理解算就会有问题。</p>
 <h2 id="材质贴图：https-cc0textures-com-（可选）"><a href="#材质贴图：https-cc0textures-com-（可选）" class="headerlink" title="材质贴图：https://cc0textures.com （可选）"></a>材质贴图：<a href="https://cc0textures.com" target="_blank" rel="noopener">https://cc0textures.com</a> （可选）</h2><h2 id="blender-cats插件：https-github-com-michaeldegroot-cats-blender-plugin-（必备）"><a href="#blender-cats插件：https-github-com-michaeldegroot-cats-blender-plugin-（必备）" class="headerlink" title="blender cats插件：https://github.com/michaeldegroot/cats-blender-plugin （必备）"></a>blender cats插件：<a href="https://github.com/michaeldegroot/cats-blender-plugin" target="_blank" rel="noopener">https://github.com/michaeldegroot/cats-blender-plugin</a> （必备）</h2><p>使用本插件可以把MMD模型导入Blender，下载方法：电脑上点击clone or download——download zip</p>
 <h2 id="bit2map-material-（可选）"><a href="#bit2map-material-（可选）" class="headerlink" title="bit2map material （可选）"></a>bit2map material （可选）</h2><p>材质制作工具，导入基础色贴图即可智能生成其他贴图，根据需要自行安装。</p>
-<h2 id="Vroid-Studio"><a href="#Vroid-Studio" class="headerlink" title="Vroid Studio"></a>Vroid Studio</h2><p>mmd模型建模可用到的软件，可以简化一大部分工作流程，相关教程后续会更新</p>
+<h2 id="Vroid-Studio-（可选）"><a href="#Vroid-Studio-（可选）" class="headerlink" title="Vroid Studio （可选）"></a>Vroid Studio （可选）</h2><p>mmd模型建模可用到的软件，可以简化一大部分工作流程，相关教程后续会更新</p>
 <hr>
 <h1 id="格式介绍"><a href="#格式介绍" class="headerlink" title="格式介绍"></a>格式介绍</h1><pre><code class="md">vmd:MMD人物动作数据/相机数据
 pmx:MMD人物模型
@@ -552,8 +621,8 @@ blend:blender工程文件
           <div class="reward-open">赏
             <div class="reward-main">
               <ul class="reward-row">
-                <li class="alipay-code"><img src="https://i.loli.net/2020/02/02/kPumH67UFERQxGa.jpg"></li>
-                <li class="wechat-code"><img src="https://i.loli.net/2020/02/02/pMdh2NrSPBF8sDK.png"></li>
+                <li class="alipay-code"><img src="https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/1595765648.jpg"></li>
+                <li class="wechat-code"><img src="https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/mm_facetoface_collect_qrcode_1595765591983.png"></li>
               </ul>
             </div>
           </div>
@@ -681,89 +750,115 @@ blend:blender工程文件
   </div>
 </footer> -->
 <footer id="colophon" class="site-footer" role="contentinfo">
-  <div class="site-info">
-    <div class="footertext">
-      <div class="img-preload">
-        <img src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/wordpress-rotating-ball-o.svg">
-        <img src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/disqus-preloader.svg">
-      </div>
-      <p style="color: #666666;">&copy 2018</p>
-    </div>
-    <div class="footer-device">
-    <p style="font-family: 'Ubuntu', sans-serif;">
-        <span style="color: #b9b9b9;">Theme <a href="https://github.com/honjun/hexo-theme-sakura" target="_blank" style="color: #b9b9b9;;text-decoration: underline dotted rgba(0, 0, 0, .1);">Sakura</a> <i class="iconfont icon-sakura rotating" style="color: #ffc0cb;display:inline-block"></i> by <a href="https://2heng.xin/" target="_blank" style="color: #b9b9b9;;text-decoration: underline dotted rgba(0, 0, 0, .1);">Mashiro</a>&<a href="https://www.hojun.cn/" target="_blank" style="color: #b9b9b9;;text-decoration: underline dotted rgba(0, 0, 0, .1);">Hojun</a>, Powered by Hexo, Hosted by Coding Pages</a>
+    <div class="site-info">
+        <div class="footertext">
+            <div class="img-preload">
+                <img src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/wordpress-rotating-ball-o.svg">
+                <img src="https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/disqus-preloader.svg">
+            </div>
+            <p style="color: #666666;">&copy 2018</p>
+        </div>
+        <div class="footer-device">
+            <p style="font-family: 'Ubuntu', sans-serif;">
+                <span style="color: #b9b9b9;">Theme <a href="https://github.com/honjun/hexo-theme-sakura" target="_blank" style="color: #b9b9b9;;text-decoration: underline dotted rgba(0, 0, 0, .1);">Sakura</a> <i class="iconfont icon-sakura rotating" style="color: #ffc0cb;display:inline-block"></i> by <a href="https://2heng.xin/" target="_blank" style="color: #b9b9b9;;text-decoration: underline dotted rgba(0, 0, 0, .1);">Mashiro</a>&<a href="https://www.hojun.cn/" target="_blank" style="color: #b9b9b9;;text-decoration: underline dotted rgba(0, 0, 0, .1);">Hojun</a>, Powered by Hexo, Hosted by Coding Pages</a>
         </span>
-      </p>
+            </p>
+        </div>
     </div>
-  </div><!-- .site-info -->
+    <!-- .site-info -->
 </footer>
 
 
 
 <!-- <script src="/js/tocbot.js"></script> -->
-<script type="text/javascript" src="/js/lib.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
-<script type="text/javascript" src="/js/InsightSearch.js"></script>
-<script type="text/javascript" src="/js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="/js/zoom.min.js"></script>
-<script type="text/javascript" src="/js/sakura-app.js"></script>
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-<script src='//unpkg.com/valine@1.3.4/dist/Valine.min.js'></script>
-<script src="/js/botui.js"></script>
 <!-- 不蒜子 网页计数器 -->
 <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script> -->
 <script type="text/javascript">
-/* <![CDATA[ */
-if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
-  var Poi = {"pjax":"1","movies":{"url": "https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/","name":"1080p 11MBPS.mp4","live":"close"},"windowheight":"fixed","codelamp":"close","ajaxurl":"","order":"asc","formpostion":"bottom"};
-} else {
-  var Poi = {"pjax":"1","movies":{"url": "https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/","name":"1080p 11MBPS.mp4","live":"open"},"windowheight":"auto","codelamp":"close","ajaxurl":"","order":"asc","formpostion":"bottom"};
-}
-/* ]]> */
-
-</script>
-<script>
-$(document).ready(function() {
-  if ($(".toc").length > 0 && document.body.clientWidth > 1200) {
-    if ($(".pattern-center").length > 0) { //有图的情况
-      tocbot.init({
-          // Where to render the table of contents.
-          tocSelector: '.toc', // 放置目录的容器
-          // Where to grab the headings to build the table of contents.
-          contentSelector: '.entry-content', // 正文内容所在
-          // Which headings to grab inside of the contentSelector element.
-          scrollSmooth: true,
-          headingSelector: 'h1, h2, h3, h4, h5', // 需要索引的标题级别
-          headingsOffset: -400,
-          scrollSmoothOffset: -85
-      });
+    /* <![CDATA[ */
+    if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        var Poi = {
+            "pjax": "1",
+            "movies": {
+                "url": "https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/",
+                "name": "1080p 11MBPS.mp4",
+                "live": "close"
+            },
+            "windowheight": "fixed",
+            "codelamp": "close",
+            "ajaxurl": "",
+            "order": "asc",
+            "formpostion": "bottom"
+        };
     } else {
-      tocbot.init({
-          // Where to render the table of contents.
-          tocSelector: '.toc', // 放置目录的容器
-          // Where to grab the headings to build the table of contents.
-          contentSelector: '.entry-content', // 正文内容所在
-          // Which headings to grab inside of the contentSelector element.
-          scrollSmooth: true,
-          headingSelector: 'h1, h2, h3, h4, h5', // 需要索引的标题级别
-          headingsOffset: -85,
-          scrollSmoothOffset: -85
-      });
+        var Poi = {
+            "pjax": "1",
+            "movies": {
+                "url": "https://cdn.jsdelivr.net/gh/zk-wz/zkwzcdn/",
+                "name": "1080p 11MBPS.mp4",
+                "live": "open"
+            },
+            "windowheight": "auto",
+            "codelamp": "close",
+            "ajaxurl": "",
+            "order": "asc",
+            "formpostion": "bottom"
+        };
     }
-    var offsetTop = $('.toc').offset().top - 95;
-    window.onscroll = function() {
-      var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
-      if (scrollTop >= offsetTop) {
-        $('.toc').addClass('toc-fixed');
-      } else {
-        $('.toc').removeClass('toc-fixed');
-      }
-    }
-  }
-});
+    /* ]]> */
 </script>
-
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/lib.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/sakura-app.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/InsightSearch.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/zoom.min.js"></script>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine@1.3.4/dist/Valine.min.js'></script>
+<script src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/botui.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/sakura.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/zk-wz/jsinblog/cursor.js"></script>
+<script>
+    $(document).ready(function() {
+        if ($(".toc").length > 0 && document.body.clientWidth > 1200) {
+            if ($(".pattern-center").length > 0) { //有图的情况
+                tocbot.init({
+                    // Where to render the table of contents.
+                    tocSelector: '.toc', // 放置目录的容器
+                    // Where to grab the headings to build the table of contents.
+                    contentSelector: '.entry-content', // 正文内容所在
+                    // Which headings to grab inside of the contentSelector element.
+                    scrollSmooth: true,
+                    headingSelector: 'h1, h2, h3, h4, h5', // 需要索引的标题级别
+                    headingsOffset: -400,
+                    scrollSmoothOffset: -85
+                });
+            } else {
+                tocbot.init({
+                    // Where to render the table of contents.
+                    tocSelector: '.toc', // 放置目录的容器
+                    // Where to grab the headings to build the table of contents.
+                    contentSelector: '.entry-content', // 正文内容所在
+                    // Which headings to grab inside of the contentSelector element.
+                    scrollSmooth: true,
+                    headingSelector: 'h1, h2, h3, h4, h5', // 需要索引的标题级别
+                    headingsOffset: -85,
+                    scrollSmoothOffset: -85
+                });
+            }
+            var offsetTop = $('.toc').offset().top - 95;
+            window.onscroll = function() {
+                var scrollTop = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
+                if (scrollTop >= offsetTop) {
+                    $('.toc').addClass('toc-fixed');
+                } else {
+                    $('.toc').removeClass('toc-fixed');
+                }
+            }
+        }
+    });
+</script>
     <div class="openNav no-select" style="height: 50px;">
       <div class="iconflat no-select" style="width: 50px; height: 50px;">
         <div class="icon"></div>
@@ -827,7 +922,7 @@ $(document).ready(function() {
             
               <li>
                 <a href="/categories/资源/">
-                  <i class="fa fa-cloud-download" aria-hidden="true"></i>
+                  <i class="fa fa-book" aria-hidden="true"></i>
                   资源
                 </a>
               </li>
@@ -841,7 +936,7 @@ $(document).ready(function() {
             
               <li>
                 <a href="/categories/转载/">
-                  <i class="fa fa-book" aria-hidden="true"></i>
+                  <i class="fa fa-cloud-download" aria-hidden="true"></i>
                   转载
                 </a>
               </li>
