@@ -2,6 +2,7 @@
 <html lang="zh-CN">
 
 <head><meta name="generator" content="Hexo 3.9.0">
+    <meta name="baidu-site-verification" content="DJNskFaTRL">
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
     
@@ -103,7 +104,7 @@
                         background: #FE9600
                     }
                     
-                    ::-webkit-scrollbar-thumb {
+                     ::-webkit-scrollbar-thumb {
                         background: #FE9600
                     }
                     
@@ -620,7 +621,7 @@ sudo service nginx restart
 sudo chmod 777 /var/www
 sudo chmod 777 /var/www/html
 </code></pre>
-<p>接下来还需要安装phpMyAdmin（这里若是安装失败请自行讲aptitude换成apt-get）：</p>
+<p>接下来还需要安装phpMyAdmin（这里若是安装失败请自行将aptitude换成apt-get）：</p>
 <pre><code class="bash">sudo aptitude install phpmyadmin
 </code></pre>
 <p>其中会跳出几个对话框，第一个对话框在apache2那里按一下空格然后回车，另外几个按自己需求配置</p>
@@ -659,9 +660,25 @@ flush privileges;
 <p><img data-action="zoom" src="https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/BHraL0LxsK.jpg" alt></p>
 <p>数据库名就输入你之前设置的数据库，用户名和密码输入phpmyadmin的用户名和密码，下面的不用管</p>
 <p>然后跟着要求配置即可，这里不再过多赘述</p>
-<h1 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h1><blockquote>
-<center>由于这个时候博主的域名还未备案，内网穿透的部分暂且还没写，等我域名备案后这里将会更新</center>
-</blockquote>
+<h2 id="配置一个看树莓派占用的面板"><a href="#配置一个看树莓派占用的面板" class="headerlink" title="配置一个看树莓派占用的面板"></a>配置一个看树莓派占用的面板</h2><h3 id="所需资源："><a href="#所需资源：" class="headerlink" title="所需资源："></a>所需资源：</h3><ul>
+<li><a href="https://github.com/spoonysonny/pi-dashboard" target="_blank" rel="noopener">pi-dashboard</a></li>
+</ul>
+<p>将其下载到本地，传输至树莓派的<code>/var/www/html/</code>目录下，运行：</p>
+<pre><code class="bash">cd /var/www/html/
+sudo chown -R www-data pi-dashboard
+</code></pre>
+<p>访问<code>你的树莓派ip/pi-dashboard</code>即可</p>
+<h2 id="内网穿透"><a href="#内网穿透" class="headerlink" title="内网穿透"></a>内网穿透</h2><p>接下来就是内网穿透的教程了</p>
+<p>首先进腾讯云（或者其它什么地方）注册一个域名，并且获得ssl证书和域名解析</p>
+<p>然后要验证一下我们的nginx是否支持ssl模块，putty中输入：</p>
+<pre><code class="bash">cd /usr/sbin
+./nginx -V
+</code></pre>
+<p><img data-action="zoom" src="https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/P6Yf6HpjpU.jpg" alt></p>
+<p>若是你弹出的信息中含有这两项（位置可能不同），则说明你的nginx支持SSL模块，可以直接进行下面的操作</p>
+<p>若是没有这两项，请根据<a href="https://www.jianshu.com/p/e4851b42f22f" target="_blank" rel="noopener">这篇教程</a>自行安装SSL模块</p>
+<p>其实接下来应该配置SSL证书，但是不急，毕竟考虑到有些读者的SSL证书尚在审核，我们先进行sakura frp的配置</p>
+<p>未完待续~</p>
 
         </div>
         <!-- .entry-content -->
