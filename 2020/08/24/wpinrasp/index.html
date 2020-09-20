@@ -55,7 +55,7 @@
                     /*End of Initial Variables*/
                 </script>
                 <script type="text/javascript">
-                    var bg = "https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/shouye1.jpg,https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/shouye2.jpg,https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/shouye3.jpg,https://cdn.jsdelivr.net/gh/zk-wz/ZKWZPICGOCDN/shouye4.jpg".split(",");
+                    var bg = "https://api.btstu.cn/sjbz/api.php?lx=dongman&amp;format=images".split(",");
                     var bgindex = Math.floor(Math.random() * bg.length);
                     if (!!window.ActiveXObject || "ActiveXObject" in window) { //is IE?
                         alert('朋友，IE浏览器未适配哦~');
@@ -501,7 +501,7 @@
 <h1 id="可行性分析："><a href="#可行性分析：" class="headerlink" title="可行性分析："></a>可行性分析：</h1><ul>
 <li>树莓派的官方系统是基于linux的魔改版debian，所以安装服务器所需配件理论上没有问题</li>
 <li>由于我采用的是树莓派3b+，所以性能方面也无问题</li>
-<li>值得一提的是，我们本地的服务器需要做内网穿透才可以进行外部访问，虽说我有公网ip，但总不能让访问的人把我家宽带占满然后我无法用网吧······</li>
+<li>值得一提的是，我们本地的服务器需要做内网穿透才可以进行外部访问，有公网ip的小伙伴萌可以不用做这一步</li>
 <li>所以继续白嫖，一通寻找，找到了可以白嫖的内网穿透：<a href="https://www.natfrp.com/" target="_blank" rel="noopener">sakura frp</a></li>
 <li>然后是域名，虽然我依然想白嫖，但无奈sakura frp把能白嫖的域名全封禁了，那就只好去腾讯云买个便宜的域名了（悲）</li>
 <li>ps：记得域名要备案</li>
